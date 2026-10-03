@@ -1,0 +1,47 @@
+[
+  {
+    "id": "T-DALE",
+    "name": "Dale Hughes",
+    "years_experience": 28,
+    "languages": [
+      "en"
+    ],
+    "employed_from": "2001-04-02",
+    "employed_until": "2026-08-15",
+    "note": "Retired Aug 2026"
+  },
+  {
+    "id": "T-MARIA",
+    "name": "Maria Lopez",
+    "years_experience": 12,
+    "languages": [
+      "es",
+      "en"
+    ],
+    "employed_from": "2014-06-01",
+    "employed_until": null,
+    "note": ""
+  },
+  {
+    "id": "T-SAM",
+    "name": "Sam Patel",
+    "years_experience": 4,
+    "languages": [
+      "en"
+    ],
+    "employed_from": "2022-03-14",
+    "employed_until": null,
+    "note": ""
+  },
+  {
+    "id": "T-JORDAN",
+    "name": "Jordan Reed",
+    "years_experience": 0.7,
+    "languages": [
+      "en"
+    ],
+    "employed_from": "2026-02-02",
+    "employed_until": null,
+    "note": "New hire"
+  }
+]

@@ -1,0 +1,42 @@
+{
+  "SYN-E214": {
+    "description": "Boom position sensor signal erratic",
+    "severity": "medium",
+    "system": "electrical"
+  },
+  "SYN-E412": {
+    "description": "Sensor circuit intermittent, possible moisture",
+    "severity": "medium",
+    "system": "electrical"
+  },
+  "SYN-A330": {
+    "description": "DEF dosing system warning",
+    "severity": "medium",
+    "system": "aftertreatment"
+  },
+  "SYN-H520": {
+    "description": "Final drive oil level low, leak suspected",
+    "severity": "high",
+    "system": "powertrain"
+  },
+  "SYN-T610": {
+    "description": "Tire pressure low",
+    "severity": "medium",
+    "system": "tires"
+  },
+  "SYN-G101": {
+    "description": "Low fuel level",
+    "severity": "low",
+    "system": "fuel"
+  },
+  "SYN-G105": {
+    "description": "Idle shutdown timer triggered",
+    "severity": "low",
+    "system": "engine"
+  },
+  "SYN-G110": {
+    "description": "Air filter restriction",
+    "severity": "low",
+    "system": "engine"
+  }
+}

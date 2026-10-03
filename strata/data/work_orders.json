@@ -1,0 +1,2429 @@
+[
+  {
+    "id": "WO-0087",
+    "machine_id": "HT-11",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2025-10-01T17:30:00",
+    "closed": "2025-10-01T19:05:00",
+    "technician_id": "T-MARIA",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 11250,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0009",
+    "machine_id": "EX-03",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2025-10-03T17:30:00",
+    "closed": "2025-10-03T19:05:00",
+    "technician_id": "T-DALE",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 5500,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0099",
+    "machine_id": "HT-12",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2025-10-03T17:30:00",
+    "closed": "2025-10-03T19:05:00",
+    "technician_id": "T-SAM",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 7750,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0018",
+    "machine_id": "EX-07",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2025-10-08T17:30:00",
+    "closed": "2025-10-08T19:05:00",
+    "technician_id": "T-DALE",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 2250,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0122",
+    "machine_id": "EX-01",
+    "type": "repair",
+    "title": "Warning light comes and goes, worse with the boom raised",
+    "status": "closed",
+    "opened": "2025-10-14T11:27:00",
+    "closed": "2025-10-14T12:45:00",
+    "technician_id": "T-SAM",
+    "fault_event_ids": [
+      "F-00001"
+    ],
+    "operating_hours_at_close": 3226.8,
+    "labor_minutes": 75,
+    "parts": [
+      "Boom position sensor"
+    ]
+  },
+  {
+    "id": "WO-0001",
+    "machine_id": "EX-01",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2025-10-17T17:30:00",
+    "closed": "2025-10-17T19:05:00",
+    "technician_id": "T-MARIA",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 3250,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0050",
+    "machine_id": "DZ-06",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2025-10-20T17:30:00",
+    "closed": "2025-10-20T19:05:00",
+    "technician_id": "T-MARIA",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 4000,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0057",
+    "machine_id": "LD-04",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2025-10-20T17:30:00",
+    "closed": "2025-10-20T19:05:00",
+    "technician_id": "T-SAM",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 8250,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0075",
+    "machine_id": "HT-09",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2025-10-20T17:30:00",
+    "closed": "2025-10-20T19:05:00",
+    "technician_id": "T-MARIA",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 10000,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0034",
+    "machine_id": "EX-10",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2025-10-22T17:30:00",
+    "closed": "2025-10-22T19:05:00",
+    "technician_id": "T-SAM",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 7000,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0042",
+    "machine_id": "DZ-02",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2025-10-27T17:30:00",
+    "closed": "2025-10-27T19:05:00",
+    "technician_id": "T-MARIA",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 7500,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0111",
+    "machine_id": "HT-14",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2025-10-28T17:30:00",
+    "closed": "2025-10-28T19:05:00",
+    "technician_id": "T-DALE",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 6250,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0123",
+    "machine_id": "EX-01",
+    "type": "repair",
+    "title": "Intermittent boom sensor warning, worse with the boom raised",
+    "status": "closed",
+    "opened": "2025-10-31T08:38:00",
+    "closed": "2025-10-31T10:34:00",
+    "technician_id": "T-DALE",
+    "fault_event_ids": [
+      "F-00002"
+    ],
+    "operating_hours_at_close": 3313.6,
+    "labor_minutes": 110,
+    "parts": [
+      "Harness clamp spacer",
+      "Heat-shrink sleeve"
+    ]
+  },
+  {
+    "id": "WO-0088",
+    "machine_id": "HT-11",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2025-11-03T17:30:00",
+    "closed": "2025-11-03T19:05:00",
+    "technician_id": "T-DALE",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 11500,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0100",
+    "machine_id": "HT-12",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2025-11-04T17:30:00",
+    "closed": "2025-11-04T19:05:00",
+    "technician_id": "T-MARIA",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 8000,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0066",
+    "machine_id": "LD-05",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2025-11-05T17:30:00",
+    "closed": "2025-11-05T19:05:00",
+    "technician_id": "T-DALE",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 5750,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0026",
+    "machine_id": "EX-08",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2025-11-07T17:30:00",
+    "closed": "2025-11-07T19:05:00",
+    "technician_id": "T-MARIA",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 4250,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0019",
+    "machine_id": "EX-07",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2025-11-21T17:30:00",
+    "closed": "2025-11-21T19:05:00",
+    "technician_id": "T-MARIA",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 2500,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0010",
+    "machine_id": "EX-03",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2025-11-22T17:30:00",
+    "closed": "2025-11-22T19:05:00",
+    "technician_id": "T-DALE",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 5750,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0076",
+    "machine_id": "HT-09",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2025-11-24T17:30:00",
+    "closed": "2025-11-24T19:05:00",
+    "technician_id": "T-SAM",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 10250,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0137",
+    "machine_id": "HT-09",
+    "type": "repair",
+    "title": "DEF warning on cold morning start",
+    "status": "closed",
+    "opened": "2025-11-25T08:04:00",
+    "closed": "2025-11-25T09:09:00",
+    "technician_id": "T-DALE",
+    "fault_event_ids": [
+      "F-00014"
+    ],
+    "operating_hours_at_close": 10260.1,
+    "labor_minutes": 45,
+    "parts": []
+  },
+  {
+    "id": "WO-0058",
+    "machine_id": "LD-04",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2025-11-29T17:30:00",
+    "closed": "2025-11-29T19:05:00",
+    "technician_id": "T-MARIA",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 8500,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0112",
+    "machine_id": "HT-14",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2025-12-02T17:30:00",
+    "closed": "2025-12-02T19:05:00",
+    "technician_id": "T-SAM",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 6500,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0138",
+    "machine_id": "HT-11",
+    "type": "repair",
+    "title": "DEF warning on cold morning start",
+    "status": "closed",
+    "opened": "2025-12-03T07:48:00",
+    "closed": "2025-12-03T08:52:00",
+    "technician_id": "T-SAM",
+    "fault_event_ids": [
+      "F-00019"
+    ],
+    "operating_hours_at_close": 11711.0,
+    "labor_minutes": 45,
+    "parts": []
+  },
+  {
+    "id": "WO-0002",
+    "machine_id": "EX-01",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2025-12-03T17:30:00",
+    "closed": "2025-12-03T19:05:00",
+    "technician_id": "T-SAM",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 3500,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0101",
+    "machine_id": "HT-12",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2025-12-05T17:30:00",
+    "closed": "2025-12-05T19:05:00",
+    "technician_id": "T-MARIA",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 8250,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0089",
+    "machine_id": "HT-11",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2025-12-08T17:30:00",
+    "closed": "2025-12-08T19:05:00",
+    "technician_id": "T-MARIA",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 11750,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0124",
+    "machine_id": "EX-03",
+    "type": "repair",
+    "title": "Intermittent boom sensor warning, worse with the boom raised",
+    "status": "closed",
+    "opened": "2025-12-09T12:47:00",
+    "closed": "2025-12-09T14:37:00",
+    "technician_id": "T-DALE",
+    "fault_event_ids": [
+      "F-00003"
+    ],
+    "operating_hours_at_close": 5854.6,
+    "labor_minutes": 110,
+    "parts": [
+      "Harness clamp spacer",
+      "Heat-shrink sleeve"
+    ]
+  },
+  {
+    "id": "WO-0035",
+    "machine_id": "EX-10",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2025-12-11T17:30:00",
+    "closed": "2025-12-11T19:05:00",
+    "technician_id": "T-MARIA",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 7250,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0027",
+    "machine_id": "EX-08",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2025-12-16T17:30:00",
+    "closed": "2025-12-16T19:05:00",
+    "technician_id": "T-MARIA",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 4500,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0043",
+    "machine_id": "DZ-02",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2025-12-18T17:30:00",
+    "closed": "2025-12-18T19:05:00",
+    "technician_id": "T-SAM",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 7750,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0067",
+    "machine_id": "LD-05",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2025-12-18T17:30:00",
+    "closed": "2025-12-18T19:05:00",
+    "technician_id": "T-SAM",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 6000,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0051",
+    "machine_id": "DZ-06",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2025-12-19T17:30:00",
+    "closed": "2025-12-19T19:05:00",
+    "technician_id": "T-SAM",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 4250,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0077",
+    "machine_id": "HT-09",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2025-12-22T17:30:00",
+    "closed": "2025-12-22T19:05:00",
+    "technician_id": "T-SAM",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 10500,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0011",
+    "machine_id": "EX-03",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-01-01T17:30:00",
+    "closed": "2026-01-01T19:05:00",
+    "technician_id": "T-SAM",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 6000,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0139",
+    "machine_id": "HT-12",
+    "type": "repair",
+    "title": "DEF warning on cold morning start",
+    "status": "closed",
+    "opened": "2026-01-02T07:35:00",
+    "closed": "2026-01-02T08:24:00",
+    "technician_id": "T-DALE",
+    "fault_event_ids": [
+      "F-00036"
+    ],
+    "operating_hours_at_close": 8472.1,
+    "labor_minutes": 45,
+    "parts": []
+  },
+  {
+    "id": "WO-0020",
+    "machine_id": "EX-07",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-01-03T17:30:00",
+    "closed": "2026-01-03T19:05:00",
+    "technician_id": "T-MARIA",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 2750,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0113",
+    "machine_id": "HT-14",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-01-03T17:30:00",
+    "closed": "2026-01-03T19:05:00",
+    "technician_id": "T-DALE",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 6750,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0059",
+    "machine_id": "LD-04",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-01-06T17:30:00",
+    "closed": "2026-01-06T19:05:00",
+    "technician_id": "T-DALE",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 8750,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0102",
+    "machine_id": "HT-12",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-01-06T17:30:00",
+    "closed": "2026-01-06T19:05:00",
+    "technician_id": "T-MARIA",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 8500,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0090",
+    "machine_id": "HT-11",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-01-07T17:30:00",
+    "closed": "2026-01-07T19:05:00",
+    "technician_id": "T-DALE",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 12000,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0003",
+    "machine_id": "EX-01",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-01-21T17:30:00",
+    "closed": "2026-01-21T19:05:00",
+    "technician_id": "T-SAM",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 3750,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0078",
+    "machine_id": "HT-09",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-01-21T17:30:00",
+    "closed": "2026-01-21T19:05:00",
+    "technician_id": "T-SAM",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 10750,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0068",
+    "machine_id": "LD-05",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-01-22T17:30:00",
+    "closed": "2026-01-22T19:05:00",
+    "technician_id": "T-DALE",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 6250,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0028",
+    "machine_id": "EX-08",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-01-29T17:30:00",
+    "closed": "2026-01-29T19:05:00",
+    "technician_id": "T-SAM",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 4750,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0036",
+    "machine_id": "EX-10",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-01-29T17:30:00",
+    "closed": "2026-01-29T19:05:00",
+    "technician_id": "T-DALE",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 7500,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0044",
+    "machine_id": "DZ-02",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-01-30T17:30:00",
+    "closed": "2026-01-30T19:05:00",
+    "technician_id": "T-DALE",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 8000,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0091",
+    "machine_id": "HT-11",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-02-02T17:30:00",
+    "closed": "2026-02-02T19:05:00",
+    "technician_id": "T-SAM",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 12250,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0125",
+    "machine_id": "EX-08",
+    "type": "repair",
+    "title": "Warning light comes and goes, worse with the boom raised",
+    "status": "closed",
+    "opened": "2026-02-03T10:27:00",
+    "closed": "2026-02-03T11:59:00",
+    "technician_id": "T-MARIA",
+    "fault_event_ids": [
+      "F-00004"
+    ],
+    "operating_hours_at_close": 4770.0,
+    "labor_minutes": 75,
+    "parts": [
+      "Boom position sensor"
+    ]
+  },
+  {
+    "id": "WO-0103",
+    "machine_id": "HT-12",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-02-06T17:30:00",
+    "closed": "2026-02-06T19:05:00",
+    "technician_id": "T-JORDAN",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 8750,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0114",
+    "machine_id": "HT-14",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-02-06T17:30:00",
+    "closed": "2026-02-06T19:05:00",
+    "technician_id": "T-SAM",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 7000,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0012",
+    "machine_id": "EX-03",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-02-11T17:30:00",
+    "closed": "2026-02-11T19:05:00",
+    "technician_id": "T-MARIA",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 6250,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0052",
+    "machine_id": "DZ-06",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-02-12T17:30:00",
+    "closed": "2026-02-12T19:05:00",
+    "technician_id": "T-SAM",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 4500,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0021",
+    "machine_id": "EX-07",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-02-13T17:30:00",
+    "closed": "2026-02-13T19:05:00",
+    "technician_id": "T-JORDAN",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 3000,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0126",
+    "machine_id": "EX-08",
+    "type": "repair",
+    "title": "Warning light comes and goes, worse with the boom raised",
+    "status": "closed",
+    "opened": "2026-02-19T09:04:00",
+    "closed": "2026-02-19T10:34:00",
+    "technician_id": "T-MARIA",
+    "fault_event_ids": [
+      "F-00005"
+    ],
+    "operating_hours_at_close": 4891.8,
+    "labor_minutes": 75,
+    "parts": [
+      "Boom position sensor"
+    ]
+  },
+  {
+    "id": "WO-0060",
+    "machine_id": "LD-04",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-02-21T17:30:00",
+    "closed": "2026-02-21T19:05:00",
+    "technician_id": "T-DALE",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 9000,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0079",
+    "machine_id": "HT-09",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-02-25T17:30:00",
+    "closed": "2026-02-25T19:05:00",
+    "technician_id": "T-JORDAN",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 11000,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0127",
+    "machine_id": "EX-08",
+    "type": "repair",
+    "title": "Intermittent boom sensor warning, worse with the boom raised",
+    "status": "closed",
+    "opened": "2026-03-02T14:31:00",
+    "closed": "2026-03-02T16:37:00",
+    "technician_id": "T-DALE",
+    "fault_event_ids": [
+      "F-00006"
+    ],
+    "operating_hours_at_close": 4953.8,
+    "labor_minutes": 110,
+    "parts": [
+      "Harness clamp spacer",
+      "Heat-shrink sleeve"
+    ]
+  },
+  {
+    "id": "WO-0069",
+    "machine_id": "LD-05",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-03-02T17:30:00",
+    "closed": "2026-03-02T19:05:00",
+    "technician_id": "T-SAM",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 6500,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0004",
+    "machine_id": "EX-01",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-03-05T17:30:00",
+    "closed": "2026-03-05T19:05:00",
+    "technician_id": "T-JORDAN",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 4000,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0092",
+    "machine_id": "HT-11",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-03-06T17:30:00",
+    "closed": "2026-03-06T19:05:00",
+    "technician_id": "T-DALE",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 12500,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0029",
+    "machine_id": "EX-08",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-03-09T17:30:00",
+    "closed": "2026-03-09T19:05:00",
+    "technician_id": "T-JORDAN",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 5000,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0037",
+    "machine_id": "EX-10",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-03-10T17:30:00",
+    "closed": "2026-03-10T19:05:00",
+    "technician_id": "T-MARIA",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 7750,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0104",
+    "machine_id": "HT-12",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-03-10T17:30:00",
+    "closed": "2026-03-10T19:05:00",
+    "technician_id": "T-JORDAN",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 9000,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0115",
+    "machine_id": "HT-14",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-03-13T17:30:00",
+    "closed": "2026-03-13T19:05:00",
+    "technician_id": "T-MARIA",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 7250,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0045",
+    "machine_id": "DZ-02",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-03-26T17:30:00",
+    "closed": "2026-03-26T19:05:00",
+    "technician_id": "T-SAM",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 8250,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0080",
+    "machine_id": "HT-09",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-03-26T17:30:00",
+    "closed": "2026-03-26T19:05:00",
+    "technician_id": "T-JORDAN",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 11250,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0013",
+    "machine_id": "EX-03",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-03-27T17:30:00",
+    "closed": "2026-03-27T19:05:00",
+    "technician_id": "T-DALE",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 6500,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0022",
+    "machine_id": "EX-07",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-03-30T17:30:00",
+    "closed": "2026-03-30T19:05:00",
+    "technician_id": "T-DALE",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 3250,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0061",
+    "machine_id": "LD-04",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-04-01T17:30:00",
+    "closed": "2026-04-01T19:05:00",
+    "technician_id": "T-SAM",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 9250,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0053",
+    "machine_id": "DZ-06",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-04-02T17:30:00",
+    "closed": "2026-04-02T19:05:00",
+    "technician_id": "T-DALE",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 4750,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0093",
+    "machine_id": "HT-11",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-04-06T17:30:00",
+    "closed": "2026-04-06T19:05:00",
+    "technician_id": "T-DALE",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 12750,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0105",
+    "machine_id": "HT-12",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-04-09T17:30:00",
+    "closed": "2026-04-09T19:05:00",
+    "technician_id": "T-JORDAN",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 9250,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0005",
+    "machine_id": "EX-01",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-04-13T17:30:00",
+    "closed": "2026-04-13T19:05:00",
+    "technician_id": "T-MARIA",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 4250,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0116",
+    "machine_id": "HT-14",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-04-14T17:30:00",
+    "closed": "2026-04-14T19:05:00",
+    "technician_id": "T-JORDAN",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 7500,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0070",
+    "machine_id": "LD-05",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-04-19T17:30:00",
+    "closed": "2026-04-19T19:05:00",
+    "technician_id": "T-JORDAN",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 6750,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0130",
+    "machine_id": "EX-10",
+    "type": "repair",
+    "title": "Warning light comes and goes, worse with the boom raised",
+    "status": "closed",
+    "opened": "2026-04-21T14:30:00",
+    "closed": "2026-04-21T15:38:00",
+    "technician_id": "T-SAM",
+    "fault_event_ids": [
+      "F-00009"
+    ],
+    "operating_hours_at_close": 7974.9,
+    "labor_minutes": 75,
+    "parts": [
+      "Boom position sensor"
+    ]
+  },
+  {
+    "id": "WO-0030",
+    "machine_id": "EX-08",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-04-21T17:30:00",
+    "closed": "2026-04-21T19:05:00",
+    "technician_id": "T-SAM",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 5250,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0038",
+    "machine_id": "EX-10",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-04-26T17:30:00",
+    "closed": "2026-04-26T19:05:00",
+    "technician_id": "T-MARIA",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 8000,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0081",
+    "machine_id": "HT-09",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-04-27T17:30:00",
+    "closed": "2026-04-27T19:05:00",
+    "technician_id": "T-SAM",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 11500,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0094",
+    "machine_id": "HT-11",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-05-07T17:30:00",
+    "closed": "2026-05-07T19:05:00",
+    "technician_id": "T-JORDAN",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 13000,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0014",
+    "machine_id": "EX-03",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-05-08T17:30:00",
+    "closed": "2026-05-08T19:05:00",
+    "technician_id": "T-JORDAN",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 6750,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0106",
+    "machine_id": "HT-12",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-05-09T17:30:00",
+    "closed": "2026-05-09T19:05:00",
+    "technician_id": "T-JORDAN",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 9500,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0046",
+    "machine_id": "DZ-02",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-05-10T17:30:00",
+    "closed": "2026-05-10T19:05:00",
+    "technician_id": "T-SAM",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 8500,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0062",
+    "machine_id": "LD-04",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-05-12T17:30:00",
+    "closed": "2026-05-12T19:05:00",
+    "technician_id": "T-JORDAN",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 9500,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0117",
+    "machine_id": "HT-14",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-05-13T17:30:00",
+    "closed": "2026-05-13T19:05:00",
+    "technician_id": "T-SAM",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 7750,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0023",
+    "machine_id": "EX-07",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-05-18T17:30:00",
+    "closed": "2026-05-18T19:05:00",
+    "technician_id": "T-JORDAN",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 3500,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0131",
+    "machine_id": "DZ-06",
+    "type": "repair",
+    "title": "Sensor circuit warning shortly after pressure washing",
+    "status": "closed",
+    "opened": "2026-05-19T11:30:00",
+    "closed": "2026-05-19T12:24:00",
+    "technician_id": "T-MARIA",
+    "fault_event_ids": [
+      "F-00010"
+    ],
+    "operating_hours_at_close": 4979.5,
+    "labor_minutes": 50,
+    "parts": [
+      "Dielectric grease"
+    ]
+  },
+  {
+    "id": "WO-0054",
+    "machine_id": "DZ-06",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-05-22T17:30:00",
+    "closed": "2026-05-22T19:05:00",
+    "technician_id": "T-SAM",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 5000,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0006",
+    "machine_id": "EX-01",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-05-28T17:30:00",
+    "closed": "2026-05-28T19:05:00",
+    "technician_id": "T-DALE",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 4500,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0071",
+    "machine_id": "LD-05",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-05-30T17:30:00",
+    "closed": "2026-05-30T19:05:00",
+    "technician_id": "T-DALE",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 7000,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0082",
+    "machine_id": "HT-09",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-05-30T17:30:00",
+    "closed": "2026-05-30T19:05:00",
+    "technician_id": "T-JORDAN",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 11750,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0031",
+    "machine_id": "EX-08",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-06-02T17:30:00",
+    "closed": "2026-06-02T19:05:00",
+    "technician_id": "T-SAM",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 5500,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0140",
+    "machine_id": "HT-11",
+    "type": "repair",
+    "title": "Final drive oil low warning, oil residue on rim",
+    "status": "closed",
+    "opened": "2026-06-05T13:14:00",
+    "closed": "2026-06-05T18:19:00",
+    "technician_id": "T-MARIA",
+    "fault_event_ids": [
+      "F-00046"
+    ],
+    "operating_hours_at_close": 13245.5,
+    "labor_minutes": 300,
+    "parts": [
+      "Final drive seal kit",
+      "Final drive oil"
+    ]
+  },
+  {
+    "id": "WO-0095",
+    "machine_id": "HT-11",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-06-06T17:30:00",
+    "closed": "2026-06-06T19:05:00",
+    "technician_id": "T-DALE",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 13250,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0107",
+    "machine_id": "HT-12",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-06-06T17:30:00",
+    "closed": "2026-06-06T19:05:00",
+    "technician_id": "T-JORDAN",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 9750,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0128",
+    "machine_id": "EX-01",
+    "type": "repair",
+    "title": "Warning light comes and goes, worse with the boom raised",
+    "status": "closed",
+    "opened": "2026-06-10T13:29:00",
+    "closed": "2026-06-10T14:43:00",
+    "technician_id": "T-JORDAN",
+    "fault_event_ids": [
+      "F-00007"
+    ],
+    "operating_hours_at_close": 4582.3,
+    "labor_minutes": 75,
+    "parts": [
+      "Boom position sensor"
+    ]
+  },
+  {
+    "id": "WO-0039",
+    "machine_id": "EX-10",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-06-11T17:30:00",
+    "closed": "2026-06-11T19:05:00",
+    "technician_id": "T-DALE",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 8250,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0118",
+    "machine_id": "HT-14",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-06-15T17:30:00",
+    "closed": "2026-06-15T19:05:00",
+    "technician_id": "T-MARIA",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 8000,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0063",
+    "machine_id": "LD-04",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-06-19T17:30:00",
+    "closed": "2026-06-19T19:05:00",
+    "technician_id": "T-SAM",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 9750,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0047",
+    "machine_id": "DZ-02",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-06-23T17:30:00",
+    "closed": "2026-06-23T19:05:00",
+    "technician_id": "T-JORDAN",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 8750,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0015",
+    "machine_id": "EX-03",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-06-26T17:30:00",
+    "closed": "2026-06-26T19:05:00",
+    "technician_id": "T-JORDAN",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 7000,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0129",
+    "machine_id": "EX-01",
+    "type": "repair",
+    "title": "Intermittent boom sensor warning, worse with the boom raised",
+    "status": "closed",
+    "opened": "2026-07-01T14:06:00",
+    "closed": "2026-07-01T16:16:00",
+    "technician_id": "T-DALE",
+    "fault_event_ids": [
+      "F-00008"
+    ],
+    "operating_hours_at_close": 4680.7,
+    "labor_minutes": 110,
+    "parts": [
+      "Harness clamp spacer",
+      "Heat-shrink sleeve"
+    ]
+  },
+  {
+    "id": "WO-0083",
+    "machine_id": "HT-09",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-07-01T17:30:00",
+    "closed": "2026-07-01T19:05:00",
+    "technician_id": "T-MARIA",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 12000,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0024",
+    "machine_id": "EX-07",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-07-03T17:30:00",
+    "closed": "2026-07-03T19:05:00",
+    "technician_id": "T-SAM",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 3750,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0108",
+    "machine_id": "HT-12",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-07-07T17:30:00",
+    "closed": "2026-07-07T19:05:00",
+    "technician_id": "T-DALE",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 10000,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0134",
+    "machine_id": "HT-09",
+    "type": "repair",
+    "title": "Sidewall cut found on pre-shift inspection",
+    "status": "closed",
+    "opened": "2026-07-08T08:00:00",
+    "closed": "2026-07-08T10:43:00",
+    "technician_id": "T-SAM",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 12067.2,
+    "labor_minutes": 150,
+    "parts": [
+      "Tire (775 spec)"
+    ]
+  },
+  {
+    "id": "WO-0072",
+    "machine_id": "LD-05",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-07-08T17:30:00",
+    "closed": "2026-07-08T19:05:00",
+    "technician_id": "T-JORDAN",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 7250,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0055",
+    "machine_id": "DZ-06",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-07-09T17:30:00",
+    "closed": "2026-07-09T19:05:00",
+    "technician_id": "T-SAM",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 5250,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0096",
+    "machine_id": "HT-11",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-07-09T17:30:00",
+    "closed": "2026-07-09T19:05:00",
+    "technician_id": "T-JORDAN",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 13500,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0007",
+    "machine_id": "EX-01",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-07-13T17:30:00",
+    "closed": "2026-07-13T19:05:00",
+    "technician_id": "T-DALE",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 4750,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0119",
+    "machine_id": "HT-14",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-07-14T17:30:00",
+    "closed": "2026-07-14T19:05:00",
+    "technician_id": "T-SAM",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 8250,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0032",
+    "machine_id": "EX-08",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-07-15T17:30:00",
+    "closed": "2026-07-15T19:05:00",
+    "technician_id": "T-MARIA",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 5750,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0132",
+    "machine_id": "LD-05",
+    "type": "repair",
+    "title": "Sensor circuit warning shortly after pressure washing",
+    "status": "closed",
+    "opened": "2026-07-22T10:45:00",
+    "closed": "2026-07-22T11:54:00",
+    "technician_id": "T-SAM",
+    "fault_event_ids": [
+      "F-00011"
+    ],
+    "operating_hours_at_close": 7351.5,
+    "labor_minutes": 50,
+    "parts": [
+      "Dielectric grease"
+    ]
+  },
+  {
+    "id": "WO-0040",
+    "machine_id": "EX-10",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-07-28T17:30:00",
+    "closed": "2026-07-28T19:05:00",
+    "technician_id": "T-DALE",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 8500,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0064",
+    "machine_id": "LD-04",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-07-28T17:30:00",
+    "closed": "2026-07-28T19:05:00",
+    "technician_id": "T-SAM",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 10000,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0084",
+    "machine_id": "HT-09",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-07-31T17:30:00",
+    "closed": "2026-07-31T19:05:00",
+    "technician_id": "T-JORDAN",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 12250,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0109",
+    "machine_id": "HT-12",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-08-07T17:30:00",
+    "closed": "2026-08-07T19:05:00",
+    "technician_id": "T-DALE",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 10250,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0016",
+    "machine_id": "EX-03",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-08-09T17:30:00",
+    "closed": "2026-08-09T19:05:00",
+    "technician_id": "T-JORDAN",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 7250,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0135",
+    "machine_id": "HT-12",
+    "type": "repair",
+    "title": "Sidewall cut found on pre-shift inspection",
+    "status": "closed",
+    "opened": "2026-08-12T08:00:00",
+    "closed": "2026-08-12T10:31:00",
+    "technician_id": "T-MARIA",
+    "fault_event_ids": [
+      "F-00013"
+    ],
+    "operating_hours_at_close": 10275.1,
+    "labor_minutes": 150,
+    "parts": [
+      "Tire (775 spec)"
+    ]
+  },
+  {
+    "id": "WO-0025",
+    "machine_id": "EX-07",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-08-14T17:30:00",
+    "closed": "2026-08-14T19:05:00",
+    "technician_id": "T-SAM",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 4000,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0048",
+    "machine_id": "DZ-02",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-08-14T17:30:00",
+    "closed": "2026-08-14T19:05:00",
+    "technician_id": "T-MARIA",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 9000,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0097",
+    "machine_id": "HT-11",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-08-14T17:30:00",
+    "closed": "2026-08-14T19:05:00",
+    "technician_id": "T-MARIA",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 13750,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0120",
+    "machine_id": "HT-14",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-08-18T17:30:00",
+    "closed": "2026-08-18T19:05:00",
+    "technician_id": "T-JORDAN",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 8500,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0008",
+    "machine_id": "EX-01",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-08-21T17:30:00",
+    "closed": "2026-08-21T19:05:00",
+    "technician_id": "T-JORDAN",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 5000,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0073",
+    "machine_id": "LD-05",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-08-24T17:30:00",
+    "closed": "2026-08-24T19:05:00",
+    "technician_id": "T-MARIA",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 7500,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0033",
+    "machine_id": "EX-08",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-08-25T17:30:00",
+    "closed": "2026-08-25T19:05:00",
+    "technician_id": "T-SAM",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 6000,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0056",
+    "machine_id": "DZ-06",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-08-27T17:30:00",
+    "closed": "2026-08-27T19:05:00",
+    "technician_id": "T-JORDAN",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 5500,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0085",
+    "machine_id": "HT-09",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-08-31T17:30:00",
+    "closed": "2026-08-31T19:05:00",
+    "technician_id": "T-JORDAN",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 12500,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0065",
+    "machine_id": "LD-04",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-09-04T17:30:00",
+    "closed": "2026-09-04T19:05:00",
+    "technician_id": "T-SAM",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 10250,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0133",
+    "machine_id": "DZ-02",
+    "type": "repair",
+    "title": "Sensor circuit warning shortly after pressure washing",
+    "status": "closed",
+    "opened": "2026-09-10T13:00:00",
+    "closed": "2026-09-10T14:10:00",
+    "technician_id": "T-JORDAN",
+    "fault_event_ids": [
+      "F-00012"
+    ],
+    "operating_hours_at_close": 9151.9,
+    "labor_minutes": 50,
+    "parts": [
+      "Dielectric grease"
+    ]
+  },
+  {
+    "id": "WO-0110",
+    "machine_id": "HT-12",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-09-11T17:30:00",
+    "closed": "2026-09-11T19:05:00",
+    "technician_id": "T-JORDAN",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 10500,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0098",
+    "machine_id": "HT-11",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-09-15T17:30:00",
+    "closed": "2026-09-15T19:05:00",
+    "technician_id": "T-JORDAN",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 14000,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0136",
+    "machine_id": "HT-14",
+    "type": "repair",
+    "title": "Sidewall cut found on pre-shift inspection",
+    "status": "closed",
+    "opened": "2026-09-16T08:00:00",
+    "closed": "2026-09-16T10:50:00",
+    "technician_id": "T-JORDAN",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 8708.7,
+    "labor_minutes": 150,
+    "parts": [
+      "Tire (775 spec)"
+    ]
+  },
+  {
+    "id": "WO-0017",
+    "machine_id": "EX-03",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-09-18T17:30:00",
+    "closed": "2026-09-18T19:05:00",
+    "technician_id": "T-MARIA",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 7500,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0121",
+    "machine_id": "HT-14",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-09-22T17:30:00",
+    "closed": "2026-09-22T19:05:00",
+    "technician_id": "T-JORDAN",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 8750,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0041",
+    "machine_id": "EX-10",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-09-23T17:30:00",
+    "closed": "2026-09-23T19:05:00",
+    "technician_id": "T-MARIA",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 8750,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0049",
+    "machine_id": "DZ-02",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-09-29T17:30:00",
+    "closed": "2026-09-29T19:05:00",
+    "technician_id": "T-JORDAN",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 9250,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0086",
+    "machine_id": "HT-09",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-09-29T17:30:00",
+    "closed": "2026-09-29T19:05:00",
+    "technician_id": "T-MARIA",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 12750,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0074",
+    "machine_id": "LD-05",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "closed",
+    "opened": "2026-09-30T17:30:00",
+    "closed": "2026-09-30T19:05:00",
+    "technician_id": "T-SAM",
+    "fault_event_ids": [],
+    "operating_hours_at_close": 7750,
+    "labor_minutes": 95,
+    "parts": [
+      "Oil filter",
+      "Fuel filter"
+    ]
+  },
+  {
+    "id": "WO-0141",
+    "machine_id": "HT-11",
+    "type": "repair",
+    "title": "Final drive oil low warning, oil residue on rim",
+    "status": "open",
+    "opened": "2026-10-02T09:00:00",
+    "closed": null,
+    "expected_done": "2026-10-02T15:00:00",
+    "technician_id": "T-MARIA",
+    "fault_event_ids": [
+      "F-00205"
+    ],
+    "operating_hours_at_close": null,
+    "labor_minutes": null,
+    "parts": []
+  },
+  {
+    "id": "WO-0142",
+    "machine_id": "EX-03",
+    "type": "service",
+    "title": "250-hour service",
+    "status": "open",
+    "progress_pct": 70,
+    "opened": "2026-10-02T11:00:00",
+    "closed": null,
+    "expected_done": "2026-10-02T15:30:00",
+    "technician_id": "T-JORDAN",
+    "fault_event_ids": [],
+    "operating_hours_at_close": null,
+    "labor_minutes": null,
+    "parts": []
+  }
+]

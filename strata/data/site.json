@@ -1,0 +1,55 @@
+{
+  "name": "Prairie Ridge Quarry (fictional)",
+  "map_canvas": {
+    "width": 680,
+    "height": 290
+  },
+  "zones": [
+    {
+      "id": "pit",
+      "name": "North pit",
+      "kind": "work",
+      "x": 20,
+      "y": 20,
+      "w": 230,
+      "h": 120
+    },
+    {
+      "id": "road",
+      "name": "Haul road bend",
+      "kind": "travel",
+      "x": 270,
+      "y": 110,
+      "w": 170,
+      "h": 90
+    },
+    {
+      "id": "crush",
+      "name": "Crusher and stockpile",
+      "kind": "work",
+      "x": 460,
+      "y": 20,
+      "w": 200,
+      "h": 120
+    },
+    {
+      "id": "shop",
+      "name": "Maintenance shop",
+      "kind": "maintenance",
+      "x": 20,
+      "y": 170,
+      "w": 230,
+      "h": 100
+    },
+    {
+      "id": "wash",
+      "name": "Wash bay",
+      "kind": "maintenance",
+      "x": 460,
+      "y": 170,
+      "w": 200,
+      "h": 100
+    }
+  ],
+  "now": "2026-10-02T14:00:00"
+}

@@ -1,0 +1,275 @@
+[
+  {
+    "id": "EX-01",
+    "name": "Excavator #1",
+    "make": "CAT",
+    "model": "336",
+    "type": "Excavator",
+    "serial_number": "SYN336EX01",
+    "home_zone": "pit",
+    "operating_hours_at_start": 3120,
+    "current": {
+      "status": "Active",
+      "zone": "pit",
+      "last_update": "Running 5.8 hours today, no warnings",
+      "as_of": "2026-10-02T14:00:00",
+      "operating_hours": 5247.5,
+      "x": 79,
+      "y": 111,
+      "lat": 40.047774,
+      "lng": -88.347629
+    }
+  },
+  {
+    "id": "EX-03",
+    "name": "Excavator #3",
+    "make": "CAT",
+    "model": "336",
+    "type": "Excavator",
+    "serial_number": "SYN336EX03",
+    "home_zone": "pit",
+    "operating_hours_at_start": 5480,
+    "current": {
+      "status": "In repair",
+      "zone": "shop",
+      "last_update": "250-hour service, about 70% done. Tech: Jordan",
+      "as_of": "2026-10-02T14:00:00",
+      "operating_hours": 7576.2,
+      "x": 120,
+      "y": 224,
+      "lat": 40.045514,
+      "lng": -88.346413
+    }
+  },
+  {
+    "id": "EX-07",
+    "name": "Excavator #7",
+    "make": "CAT",
+    "model": "336",
+    "type": "Excavator",
+    "serial_number": "SYN336EX07",
+    "home_zone": "pit",
+    "operating_hours_at_start": 2210,
+    "current": {
+      "status": "Warning",
+      "zone": "pit",
+      "last_update": "Boom sensor warning came on twice today, 10:12 and 13:40",
+      "as_of": "2026-10-02T14:00:00",
+      "operating_hours": 4237.6,
+      "x": 176,
+      "y": 119,
+      "lat": 40.047623,
+      "lng": -88.344732
+    }
+  },
+  {
+    "id": "EX-08",
+    "name": "Excavator #8",
+    "make": "CAT",
+    "model": "336",
+    "type": "Excavator",
+    "serial_number": "SYN336EX08",
+    "home_zone": "pit",
+    "operating_hours_at_start": 4060,
+    "current": {
+      "status": "Idle",
+      "zone": "pit",
+      "last_update": "Parked since 12:30, no faults",
+      "as_of": "2026-10-02T14:00:00",
+      "operating_hours": 6168.3,
+      "x": 125,
+      "y": 97,
+      "lat": 40.048066,
+      "lng": -88.346236
+    }
+  },
+  {
+    "id": "EX-10",
+    "name": "Excavator #10",
+    "make": "CAT",
+    "model": "320",
+    "type": "Excavator",
+    "serial_number": "SYN320EX10",
+    "home_zone": "crush",
+    "operating_hours_at_start": 6890,
+    "current": {
+      "status": "Active",
+      "zone": "crush",
+      "last_update": "Loading stockpile, 6.1 hours today",
+      "as_of": "2026-10-02T14:00:00",
+      "operating_hours": 8800.3,
+      "x": 490,
+      "y": 111,
+      "lat": 40.047775,
+      "lng": -88.335287
+    }
+  },
+  {
+    "id": "DZ-02",
+    "name": "Dozer #2",
+    "make": "CAT",
+    "model": "D6",
+    "type": "Dozer",
+    "serial_number": "SYND6DZ02",
+    "home_zone": "pit",
+    "operating_hours_at_start": 7350,
+    "current": {
+      "status": "Active",
+      "zone": "pit",
+      "last_update": "Running 6.2 hours today, no warnings",
+      "as_of": "2026-10-02T14:00:00",
+      "operating_hours": 9276.6,
+      "x": 200,
+      "y": 73,
+      "lat": 40.048548,
+      "lng": -88.344008
+    }
+  },
+  {
+    "id": "DZ-06",
+    "name": "Dozer #6",
+    "make": "CAT",
+    "model": "D6",
+    "type": "Dozer",
+    "serial_number": "SYND6DZ06",
+    "home_zone": "pit",
+    "operating_hours_at_start": 3900,
+    "current": {
+      "status": "Warning",
+      "zone": "wash",
+      "last_update": "Sensor warning 20 minutes after washing",
+      "as_of": "2026-10-02T14:00:00",
+      "operating_hours": 5719.9,
+      "x": 495,
+      "y": 255,
+      "lat": 40.044906,
+      "lng": -88.335158
+    }
+  },
+  {
+    "id": "LD-04",
+    "name": "Loader #4",
+    "make": "CAT",
+    "model": "980",
+    "type": "Loader",
+    "serial_number": "SYN980LD04",
+    "home_zone": "crush",
+    "operating_hours_at_start": 8120,
+    "current": {
+      "status": "Active",
+      "zone": "crush",
+      "last_update": "Feeding crusher, 5.1 hours today",
+      "as_of": "2026-10-02T14:00:00",
+      "operating_hours": 10411.7,
+      "x": 488,
+      "y": 81,
+      "lat": 40.048386,
+      "lng": -88.335361
+    }
+  },
+  {
+    "id": "LD-05",
+    "name": "Loader #5",
+    "make": "CAT",
+    "model": "980",
+    "type": "Loader",
+    "serial_number": "SYN980LD05",
+    "home_zone": "crush",
+    "operating_hours_at_start": 5530,
+    "current": {
+      "status": "Idle",
+      "zone": "crush",
+      "last_update": "Parked since 11:40, no faults",
+      "as_of": "2026-10-02T14:00:00",
+      "operating_hours": 7772.6,
+      "x": 612,
+      "y": 79,
+      "lat": 40.048411,
+      "lng": -88.331643
+    }
+  },
+  {
+    "id": "HT-09",
+    "name": "Haul truck #9",
+    "make": "CAT",
+    "model": "775",
+    "type": "Haul truck",
+    "serial_number": "SYN775HT09",
+    "home_zone": "road",
+    "operating_hours_at_start": 9870,
+    "current": {
+      "status": "Active",
+      "zone": "road",
+      "last_update": "Hauling, 18 km/h",
+      "as_of": "2026-10-02T14:00:00",
+      "operating_hours": 12777.2,
+      "x": 312,
+      "y": 172,
+      "lat": 40.04656,
+      "lng": -88.340646
+    }
+  },
+  {
+    "id": "HT-11",
+    "name": "Haul truck #11",
+    "make": "CAT",
+    "model": "775",
+    "type": "Haul truck",
+    "serial_number": "SYN775HT11",
+    "home_zone": "road",
+    "operating_hours_at_start": 11240,
+    "current": {
+      "status": "In repair",
+      "zone": "shop",
+      "last_update": "Final drive leak. Tech: Maria. Expected back 15:00",
+      "as_of": "2026-10-02T14:00:00",
+      "operating_hours": 14139.7,
+      "x": 189,
+      "y": 244,
+      "lat": 40.045123,
+      "lng": -88.344331
+    }
+  },
+  {
+    "id": "HT-12",
+    "name": "Haul truck #12",
+    "make": "CAT",
+    "model": "775",
+    "type": "Haul truck",
+    "serial_number": "SYN775HT12",
+    "home_zone": "road",
+    "operating_hours_at_start": 7720,
+    "current": {
+      "status": "Active",
+      "zone": "pit",
+      "last_update": "Loaded 41 times today",
+      "as_of": "2026-10-02T14:00:00",
+      "operating_hours": 10651.4,
+      "x": 99,
+      "y": 82,
+      "lat": 40.048363,
+      "lng": -88.347019
+    }
+  },
+  {
+    "id": "HT-14",
+    "name": "Haul truck #14",
+    "make": "CAT",
+    "model": "775",
+    "type": "Haul truck",
+    "serial_number": "SYN775HT14",
+    "home_zone": "road",
+    "operating_hours_at_start": 6010,
+    "current": {
+      "status": "Idle",
+      "zone": "road",
+      "last_update": "Parked since 12:05, operator on break",
+      "as_of": "2026-10-02T14:00:00",
+      "operating_hours": 8846.4,
+      "x": 339,
+      "y": 177,
+      "lat": 40.046466,
+      "lng": -88.339828
+    }
+  }
+]

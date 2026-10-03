@@ -1,0 +1,67 @@
+{
+  "note": "Planted patterns. Your pattern code should rediscover these from the raw data.",
+  "patterns": [
+    {
+      "name": "Boom harness chafe on model 336",
+      "scope": "same model",
+      "code": "SYN-E214",
+      "machines": [
+        "EX-01",
+        "EX-03",
+        "EX-08",
+        "EX-07 (live today)"
+      ],
+      "truth": "sensor_swap never holds on the 336 (4 tries); harness_reroute always holds (4 tries)",
+      "demo": "Excavator #7 warning today; Strata should recommend checking the boom clamp first."
+    },
+    {
+      "name": "Model 320 is different",
+      "scope": "same model",
+      "code": "SYN-E214",
+      "machines": [
+        "EX-10"
+      ],
+      "truth": "On the 320, a sensor swap held. Shows why model-level patterns matter."
+    },
+    {
+      "name": "Wash bay moisture",
+      "scope": "location",
+      "code": "SYN-E412",
+      "machines": [
+        "DZ-06",
+        "LD-05",
+        "DZ-02",
+        "DZ-06 (live today)"
+      ],
+      "truth": "Electrical warnings within ~30 min of washing; drying the connector holds. Only 3 cases: emerging."
+    },
+    {
+      "name": "Haul road bend tire cuts",
+      "scope": "location",
+      "machines": [
+        "HT-09",
+        "HT-12",
+        "HT-14"
+      ],
+      "truth": "3 tire cuts in ~70 days, all traced to the inside of the bend (rock spill)."
+    },
+    {
+      "name": "Cold-morning DEF warnings",
+      "scope": "conditions",
+      "code": "SYN-A330",
+      "machines": [
+        "haul trucks"
+      ],
+      "truth": "Warning appears on mornings below about -6 C and clears after warm-up. Not a broken part."
+    },
+    {
+      "name": "HT-11 final drive seal",
+      "scope": "same machine",
+      "code": "SYN-H520",
+      "machines": [
+        "HT-11"
+      ],
+      "truth": "Seal replaced ~900 hours ago and held; leaking again today (wear, not a failed fix)."
+    }
+  ]
+}

@@ -1,0 +1,3692 @@
+[
+  {
+    "id": "F-00179",
+    "machine_id": "HT-12",
+    "code": "SYN-G105",
+    "description": "Idle shutdown timer triggered",
+    "severity": "low",
+    "timestamp": "2025-10-01T12:20:28.736958",
+    "operating_hours": 7724.3,
+    "zone": "pit",
+    "lat": 40.048237,
+    "lng": -88.34581,
+    "context": {
+      "ambient_temp_c": 20.1,
+      "avg_load_pct": 74.0,
+      "hours_since_service": 224.3,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00135",
+    "machine_id": "LD-04",
+    "code": "SYN-G105",
+    "description": "Idle shutdown timer triggered",
+    "severity": "low",
+    "timestamp": "2025-10-05T11:53:23.504389",
+    "operating_hours": 8150.5,
+    "zone": "crush",
+    "lat": 40.047846,
+    "lng": -88.331447,
+    "context": {
+      "ambient_temp_c": 19.2,
+      "avg_load_pct": 56.0,
+      "hours_since_service": 150.5,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00047",
+    "machine_id": "EX-01",
+    "code": "SYN-G110",
+    "description": "Air filter restriction",
+    "severity": "low",
+    "timestamp": "2025-10-06T15:48:40.864609",
+    "operating_hours": 3161.1,
+    "zone": "pit",
+    "lat": 40.048577,
+    "lng": -88.347087,
+    "context": {
+      "ambient_temp_c": 14.8,
+      "avg_load_pct": 55.0,
+      "hours_since_service": 161.1,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00056",
+    "machine_id": "EX-03",
+    "code": "SYN-G105",
+    "description": "Idle shutdown timer triggered",
+    "severity": "low",
+    "timestamp": "2025-10-10T10:13:34.076491",
+    "operating_hours": 5526.1,
+    "zone": "pit",
+    "lat": 40.048427,
+    "lng": -88.347068,
+    "context": {
+      "ambient_temp_c": 18.7,
+      "avg_load_pct": 72.0,
+      "hours_since_service": 26.1,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00156",
+    "machine_id": "HT-09",
+    "code": "SYN-G105",
+    "description": "Idle shutdown timer triggered",
+    "severity": "low",
+    "timestamp": "2025-10-11T12:10:55.815775",
+    "operating_hours": 9938.4,
+    "zone": "crush",
+    "lat": 40.047613,
+    "lng": -88.334406,
+    "context": {
+      "ambient_temp_c": 18.8,
+      "avg_load_pct": 84.0,
+      "hours_since_service": 188.4,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00001",
+    "machine_id": "EX-01",
+    "code": "SYN-E214",
+    "description": "Boom position sensor signal erratic",
+    "severity": "medium",
+    "timestamp": "2025-10-14T09:30:00",
+    "operating_hours": 3224.5,
+    "zone": "pit",
+    "lat": 40.048526,
+    "lng": -88.345147,
+    "context": {
+      "ambient_temp_c": 17.8,
+      "avg_load_pct": 75.0,
+      "hours_since_service": 224.5,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00076",
+    "machine_id": "EX-07",
+    "code": "SYN-G101",
+    "description": "Low fuel level",
+    "severity": "low",
+    "timestamp": "2025-10-16T10:20:10.815504",
+    "operating_hours": 2298.1,
+    "zone": "pit",
+    "lat": 40.048167,
+    "lng": -88.343495,
+    "context": {
+      "ambient_temp_c": 13.9,
+      "avg_load_pct": 72.0,
+      "hours_since_service": 48.1,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00117",
+    "machine_id": "DZ-06",
+    "code": "SYN-G105",
+    "description": "Idle shutdown timer triggered",
+    "severity": "low",
+    "timestamp": "2025-10-16T11:57:11.920751",
+    "operating_hours": 3985.8,
+    "zone": "pit",
+    "lat": 40.048596,
+    "lng": -88.34382,
+    "context": {
+      "ambient_temp_c": 13.9,
+      "avg_load_pct": 45.0,
+      "hours_since_service": 235.8,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00191",
+    "machine_id": "HT-14",
+    "code": "SYN-G110",
+    "description": "Air filter restriction",
+    "severity": "low",
+    "timestamp": "2025-10-17T15:56:51.663578",
+    "operating_hours": 6172.7,
+    "zone": "road",
+    "lat": 40.046906,
+    "lng": -88.339514,
+    "context": {
+      "ambient_temp_c": 17.4,
+      "avg_load_pct": 52.0,
+      "hours_since_service": 172.7,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00057",
+    "machine_id": "EX-03",
+    "code": "SYN-G101",
+    "description": "Low fuel level",
+    "severity": "low",
+    "timestamp": "2025-10-20T09:45:59.516134",
+    "operating_hours": 5577.9,
+    "zone": "pit",
+    "lat": 40.047888,
+    "lng": -88.348315,
+    "context": {
+      "ambient_temp_c": 15.7,
+      "avg_load_pct": 49.0,
+      "hours_since_service": 77.9,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00098",
+    "machine_id": "EX-10",
+    "code": "SYN-G101",
+    "description": "Low fuel level",
+    "severity": "low",
+    "timestamp": "2025-10-24T14:45:37.058386",
+    "operating_hours": 7016.5,
+    "zone": "crush",
+    "lat": 40.048586,
+    "lng": -88.331518,
+    "context": {
+      "ambient_temp_c": 16.5,
+      "avg_load_pct": 66.0,
+      "hours_since_service": 16.5,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00118",
+    "machine_id": "DZ-06",
+    "code": "SYN-G110",
+    "description": "Air filter restriction",
+    "severity": "low",
+    "timestamp": "2025-10-24T15:25:29.516681",
+    "operating_hours": 4029.1,
+    "zone": "pit",
+    "lat": 40.047909,
+    "lng": -88.347545,
+    "context": {
+      "ambient_temp_c": 16.5,
+      "avg_load_pct": 64.0,
+      "hours_since_service": 29.1,
+      "washed_today": true
+    }
+  },
+  {
+    "id": "F-00002",
+    "machine_id": "EX-01",
+    "code": "SYN-E214",
+    "description": "Boom position sensor signal erratic",
+    "severity": "medium",
+    "timestamp": "2025-10-31T07:37:00",
+    "operating_hours": 3311.6,
+    "zone": "pit",
+    "lat": 40.048155,
+    "lng": -88.343981,
+    "context": {
+      "ambient_temp_c": 3.1,
+      "avg_load_pct": 58.0,
+      "hours_since_service": 61.6,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00136",
+    "machine_id": "LD-04",
+    "code": "SYN-G105",
+    "description": "Idle shutdown timer triggered",
+    "severity": "low",
+    "timestamp": "2025-10-31T16:46:57.706244",
+    "operating_hours": 8327.2,
+    "zone": "crush",
+    "lat": 40.047615,
+    "lng": -88.33413,
+    "context": {
+      "ambient_temp_c": 15.1,
+      "avg_load_pct": 83.0,
+      "hours_since_service": 77.2,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00105",
+    "machine_id": "DZ-02",
+    "code": "SYN-G110",
+    "description": "Air filter restriction",
+    "severity": "low",
+    "timestamp": "2025-11-06T09:35:25.026563",
+    "operating_hours": 7539.5,
+    "zone": "pit",
+    "lat": 40.047797,
+    "lng": -88.34492,
+    "context": {
+      "ambient_temp_c": 14.0,
+      "avg_load_pct": 67.0,
+      "hours_since_service": 39.5,
+      "washed_today": true
+    }
+  },
+  {
+    "id": "F-00048",
+    "machine_id": "EX-01",
+    "code": "SYN-G101",
+    "description": "Low fuel level",
+    "severity": "low",
+    "timestamp": "2025-11-13T16:34:06.752957",
+    "operating_hours": 3408.2,
+    "zone": "pit",
+    "lat": 40.048692,
+    "lng": -88.34682,
+    "context": {
+      "ambient_temp_c": 12.9,
+      "avg_load_pct": 85.0,
+      "hours_since_service": 158.2,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00119",
+    "machine_id": "DZ-06",
+    "code": "SYN-G110",
+    "description": "Air filter restriction",
+    "severity": "low",
+    "timestamp": "2025-11-15T09:43:15.812321",
+    "operating_hours": 4104.2,
+    "zone": "pit",
+    "lat": 40.048169,
+    "lng": -88.343583,
+    "context": {
+      "ambient_temp_c": 11.1,
+      "avg_load_pct": 66.0,
+      "hours_since_service": 104.2,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00180",
+    "machine_id": "HT-12",
+    "code": "SYN-G110",
+    "description": "Air filter restriction",
+    "severity": "low",
+    "timestamp": "2025-11-16T10:31:45.766452",
+    "operating_hours": 8102.7,
+    "zone": "crush",
+    "lat": 40.04872,
+    "lng": -88.332541,
+    "context": {
+      "ambient_temp_c": 11.8,
+      "avg_load_pct": 48.0,
+      "hours_since_service": 102.7,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00087",
+    "machine_id": "EX-08",
+    "code": "SYN-G101",
+    "description": "Low fuel level",
+    "severity": "low",
+    "timestamp": "2025-11-18T11:08:38.543061",
+    "operating_hours": 4319.9,
+    "zone": "pit",
+    "lat": 40.048708,
+    "lng": -88.345128,
+    "context": {
+      "ambient_temp_c": 7.5,
+      "avg_load_pct": 80.0,
+      "hours_since_service": 69.9,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00120",
+    "machine_id": "DZ-06",
+    "code": "SYN-G105",
+    "description": "Idle shutdown timer triggered",
+    "severity": "low",
+    "timestamp": "2025-11-18T13:39:19.526201",
+    "operating_hours": 4113.4,
+    "zone": "pit",
+    "lat": 40.047568,
+    "lng": -88.344275,
+    "context": {
+      "ambient_temp_c": 7.5,
+      "avg_load_pct": 61.0,
+      "hours_since_service": 113.4,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00018",
+    "machine_id": "HT-11",
+    "code": "SYN-A330",
+    "description": "DEF dosing system warning",
+    "severity": "medium",
+    "timestamp": "2025-11-24T07:19:00",
+    "operating_hours": 11656.3,
+    "zone": "crush",
+    "lat": 40.047662,
+    "lng": -88.333492,
+    "context": {
+      "ambient_temp_c": -6.2,
+      "avg_load_pct": 75.0,
+      "hours_since_service": 156.3,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00033",
+    "machine_id": "HT-12",
+    "code": "SYN-A330",
+    "description": "DEF dosing system warning",
+    "severity": "medium",
+    "timestamp": "2025-11-25T07:08:00",
+    "operating_hours": 8177.1,
+    "zone": "road",
+    "lat": 40.04661,
+    "lng": -88.338172,
+    "context": {
+      "ambient_temp_c": -7.2,
+      "avg_load_pct": 79.0,
+      "hours_since_service": 177.1,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00014",
+    "machine_id": "HT-09",
+    "code": "SYN-A330",
+    "description": "DEF dosing system warning",
+    "severity": "medium",
+    "timestamp": "2025-11-25T07:24:00",
+    "operating_hours": 10258.6,
+    "zone": "road",
+    "lat": 40.046431,
+    "lng": -88.339995,
+    "context": {
+      "ambient_temp_c": -7.2,
+      "avg_load_pct": 55.0,
+      "hours_since_service": 8.6,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00058",
+    "machine_id": "EX-03",
+    "code": "SYN-G105",
+    "description": "Idle shutdown timer triggered",
+    "severity": "low",
+    "timestamp": "2025-11-25T13:32:54.732595",
+    "operating_hours": 5764.2,
+    "zone": "pit",
+    "lat": 40.048592,
+    "lng": -88.345534,
+    "context": {
+      "ambient_temp_c": 4.8,
+      "avg_load_pct": 70.0,
+      "hours_since_service": 14.2,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00077",
+    "machine_id": "EX-07",
+    "code": "SYN-G105",
+    "description": "Idle shutdown timer triggered",
+    "severity": "low",
+    "timestamp": "2025-11-25T15:14:56.872655",
+    "operating_hours": 2515.0,
+    "zone": "pit",
+    "lat": 40.048227,
+    "lng": -88.343673,
+    "context": {
+      "ambient_temp_c": 4.8,
+      "avg_load_pct": 56.0,
+      "hours_since_service": 15.0,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00015",
+    "machine_id": "HT-09",
+    "code": "SYN-A330",
+    "description": "DEF dosing system warning",
+    "severity": "medium",
+    "timestamp": "2025-12-02T07:14:00",
+    "operating_hours": 10320.9,
+    "zone": "pit",
+    "lat": 40.048519,
+    "lng": -88.343286,
+    "context": {
+      "ambient_temp_c": -9.4,
+      "avg_load_pct": 58.0,
+      "hours_since_service": 70.9,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00088",
+    "machine_id": "EX-08",
+    "code": "SYN-G105",
+    "description": "Idle shutdown timer triggered",
+    "severity": "low",
+    "timestamp": "2025-12-02T09:05:33.764004",
+    "operating_hours": 4406.5,
+    "zone": "pit",
+    "lat": 40.047717,
+    "lng": -88.344919,
+    "context": {
+      "ambient_temp_c": 2.6,
+      "avg_load_pct": 55.0,
+      "hours_since_service": 156.5,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00019",
+    "machine_id": "HT-11",
+    "code": "SYN-A330",
+    "description": "DEF dosing system warning",
+    "severity": "medium",
+    "timestamp": "2025-12-03T07:08:00",
+    "operating_hours": 11709.4,
+    "zone": "road",
+    "lat": 40.046748,
+    "lng": -88.340442,
+    "context": {
+      "ambient_temp_c": -6.9,
+      "avg_load_pct": 71.0,
+      "hours_since_service": 209.4,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00078",
+    "machine_id": "EX-07",
+    "code": "SYN-G101",
+    "description": "Low fuel level",
+    "severity": "low",
+    "timestamp": "2025-12-03T10:19:13.909933",
+    "operating_hours": 2546.0,
+    "zone": "pit",
+    "lat": 40.048272,
+    "lng": -88.346225,
+    "context": {
+      "ambient_temp_c": 5.1,
+      "avg_load_pct": 48.0,
+      "hours_since_service": 46.0,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00157",
+    "machine_id": "HT-09",
+    "code": "SYN-G105",
+    "description": "Idle shutdown timer triggered",
+    "severity": "low",
+    "timestamp": "2025-12-03T11:08:20.583706",
+    "operating_hours": 10336.0,
+    "zone": "crush",
+    "lat": 40.048008,
+    "lng": -88.331177,
+    "context": {
+      "ambient_temp_c": 5.1,
+      "avg_load_pct": 50.0,
+      "hours_since_service": 86.0,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00038",
+    "machine_id": "HT-14",
+    "code": "SYN-A330",
+    "description": "DEF dosing system warning",
+    "severity": "medium",
+    "timestamp": "2025-12-05T07:08:00",
+    "operating_hours": 6523.2,
+    "zone": "pit",
+    "lat": 40.048307,
+    "lng": -88.348553,
+    "context": {
+      "ambient_temp_c": -10.0,
+      "avg_load_pct": 85.0,
+      "hours_since_service": 23.2,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00020",
+    "machine_id": "HT-11",
+    "code": "SYN-A330",
+    "description": "DEF dosing system warning",
+    "severity": "medium",
+    "timestamp": "2025-12-05T07:20:00",
+    "operating_hours": 11731.0,
+    "zone": "crush",
+    "lat": 40.048282,
+    "lng": -88.332736,
+    "context": {
+      "ambient_temp_c": -10.0,
+      "avg_load_pct": 64.0,
+      "hours_since_service": 231.0,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00106",
+    "machine_id": "DZ-02",
+    "code": "SYN-G105",
+    "description": "Idle shutdown timer triggered",
+    "severity": "low",
+    "timestamp": "2025-12-05T15:45:59.382164",
+    "operating_hours": 7677.4,
+    "zone": "pit",
+    "lat": 40.047968,
+    "lng": -88.347801,
+    "context": {
+      "ambient_temp_c": 2.0,
+      "avg_load_pct": 46.0,
+      "hours_since_service": 177.4,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00121",
+    "machine_id": "DZ-06",
+    "code": "SYN-G105",
+    "description": "Idle shutdown timer triggered",
+    "severity": "low",
+    "timestamp": "2025-12-06T07:56:01.083261",
+    "operating_hours": 4201.9,
+    "zone": "pit",
+    "lat": 40.048361,
+    "lng": -88.344101,
+    "context": {
+      "ambient_temp_c": -5.7,
+      "avg_load_pct": 76.0,
+      "hours_since_service": 201.9,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00021",
+    "machine_id": "HT-11",
+    "code": "SYN-A330",
+    "description": "DEF dosing system warning",
+    "severity": "medium",
+    "timestamp": "2025-12-08T07:12:00",
+    "operating_hours": 11750.4,
+    "zone": "pit",
+    "lat": 40.048156,
+    "lng": -88.347441,
+    "context": {
+      "ambient_temp_c": -7.1,
+      "avg_load_pct": 48.0,
+      "hours_since_service": 0.4,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00003",
+    "machine_id": "EX-03",
+    "code": "SYN-E214",
+    "description": "Boom position sensor signal erratic",
+    "severity": "medium",
+    "timestamp": "2025-12-09T10:50:00",
+    "operating_hours": 5852.2,
+    "zone": "pit",
+    "lat": 40.048253,
+    "lng": -88.344365,
+    "context": {
+      "ambient_temp_c": 7.9,
+      "avg_load_pct": 50.0,
+      "hours_since_service": 102.2,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00158",
+    "machine_id": "HT-09",
+    "code": "SYN-G110",
+    "description": "Air filter restriction",
+    "severity": "low",
+    "timestamp": "2025-12-10T11:41:48.908851",
+    "operating_hours": 10413.5,
+    "zone": "pit",
+    "lat": 40.048551,
+    "lng": -88.348491,
+    "context": {
+      "ambient_temp_c": 7.3,
+      "avg_load_pct": 62.0,
+      "hours_since_service": 163.5,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00192",
+    "machine_id": "HT-14",
+    "code": "SYN-G105",
+    "description": "Idle shutdown timer triggered",
+    "severity": "low",
+    "timestamp": "2025-12-17T16:36:00.909813",
+    "operating_hours": 6607.2,
+    "zone": "pit",
+    "lat": 40.048325,
+    "lng": -88.345653,
+    "context": {
+      "ambient_temp_c": 3.0,
+      "avg_load_pct": 60.0,
+      "hours_since_service": 107.2,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00022",
+    "machine_id": "HT-11",
+    "code": "SYN-A330",
+    "description": "DEF dosing system warning",
+    "severity": "medium",
+    "timestamp": "2025-12-18T07:08:00",
+    "operating_hours": 11837.6,
+    "zone": "road",
+    "lat": 40.046955,
+    "lng": -88.339119,
+    "context": {
+      "ambient_temp_c": -7.6,
+      "avg_load_pct": 65.0,
+      "hours_since_service": 87.6,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00034",
+    "machine_id": "HT-12",
+    "code": "SYN-A330",
+    "description": "DEF dosing system warning",
+    "severity": "medium",
+    "timestamp": "2025-12-18T07:22:00",
+    "operating_hours": 8353.8,
+    "zone": "crush",
+    "lat": 40.048485,
+    "lng": -88.3341,
+    "context": {
+      "ambient_temp_c": -7.6,
+      "avg_load_pct": 51.0,
+      "hours_since_service": 103.8,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00193",
+    "machine_id": "HT-14",
+    "code": "SYN-G110",
+    "description": "Air filter restriction",
+    "severity": "low",
+    "timestamp": "2025-12-18T08:29:45.113039",
+    "operating_hours": 6610.8,
+    "zone": "pit",
+    "lat": 40.048447,
+    "lng": -88.346439,
+    "context": {
+      "ambient_temp_c": -7.6,
+      "avg_load_pct": 51.0,
+      "hours_since_service": 110.8,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00059",
+    "machine_id": "EX-03",
+    "code": "SYN-G105",
+    "description": "Idle shutdown timer triggered",
+    "severity": "low",
+    "timestamp": "2025-12-19T08:47:58.186678",
+    "operating_hours": 5912.5,
+    "zone": "pit",
+    "lat": 40.048302,
+    "lng": -88.34699,
+    "context": {
+      "ambient_temp_c": -5.3,
+      "avg_load_pct": 74.0,
+      "hours_since_service": 162.5,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00023",
+    "machine_id": "HT-11",
+    "code": "SYN-A330",
+    "description": "DEF dosing system warning",
+    "severity": "medium",
+    "timestamp": "2025-12-22T07:02:00",
+    "operating_hours": 11858.2,
+    "zone": "road",
+    "lat": 40.0467,
+    "lng": -88.337749,
+    "context": {
+      "ambient_temp_c": -13.3,
+      "avg_load_pct": 61.0,
+      "hours_since_service": 108.2,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00039",
+    "machine_id": "HT-14",
+    "code": "SYN-A330",
+    "description": "DEF dosing system warning",
+    "severity": "medium",
+    "timestamp": "2025-12-22T07:08:00",
+    "operating_hours": 6642.7,
+    "zone": "road",
+    "lat": 40.046778,
+    "lng": -88.340789,
+    "context": {
+      "ambient_temp_c": -13.3,
+      "avg_load_pct": 60.0,
+      "hours_since_service": 142.7,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00040",
+    "machine_id": "HT-14",
+    "code": "SYN-A330",
+    "description": "DEF dosing system warning",
+    "severity": "medium",
+    "timestamp": "2025-12-25T06:51:00",
+    "operating_hours": 6675.6,
+    "zone": "pit",
+    "lat": 40.048457,
+    "lng": -88.347107,
+    "context": {
+      "ambient_temp_c": -6.8,
+      "avg_load_pct": 76.0,
+      "hours_since_service": 175.6,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00060",
+    "machine_id": "EX-03",
+    "code": "SYN-G110",
+    "description": "Air filter restriction",
+    "severity": "low",
+    "timestamp": "2025-12-29T08:24:01.272451",
+    "operating_hours": 5971.8,
+    "zone": "pit",
+    "lat": 40.048705,
+    "lng": -88.345754,
+    "context": {
+      "ambient_temp_c": -7.9,
+      "avg_load_pct": 55.0,
+      "hours_since_service": 221.8,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00089",
+    "machine_id": "EX-08",
+    "code": "SYN-G101",
+    "description": "Low fuel level",
+    "severity": "low",
+    "timestamp": "2025-12-31T13:13:01.777177",
+    "operating_hours": 4572.8,
+    "zone": "pit",
+    "lat": 40.047862,
+    "lng": -88.343536,
+    "context": {
+      "ambient_temp_c": 6.1,
+      "avg_load_pct": 45.0,
+      "hours_since_service": 72.8,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00041",
+    "machine_id": "HT-14",
+    "code": "SYN-A330",
+    "description": "DEF dosing system warning",
+    "severity": "medium",
+    "timestamp": "2026-01-01T06:56:00",
+    "operating_hours": 6727.5,
+    "zone": "pit",
+    "lat": 40.048625,
+    "lng": -88.345589,
+    "context": {
+      "ambient_temp_c": -7.8,
+      "avg_load_pct": 73.0,
+      "hours_since_service": 227.5,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00035",
+    "machine_id": "HT-12",
+    "code": "SYN-A330",
+    "description": "DEF dosing system warning",
+    "severity": "medium",
+    "timestamp": "2026-01-01T07:01:00",
+    "operating_hours": 8460.2,
+    "zone": "road",
+    "lat": 40.046668,
+    "lng": -88.338003,
+    "context": {
+      "ambient_temp_c": -7.8,
+      "avg_load_pct": 78.0,
+      "hours_since_service": 210.2,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00107",
+    "machine_id": "DZ-02",
+    "code": "SYN-G101",
+    "description": "Low fuel level",
+    "severity": "low",
+    "timestamp": "2026-01-01T15:21:19.612693",
+    "operating_hours": 7848.8,
+    "zone": "pit",
+    "lat": 40.047722,
+    "lng": -88.344508,
+    "context": {
+      "ambient_temp_c": 4.2,
+      "avg_load_pct": 50.0,
+      "hours_since_service": 98.8,
+      "washed_today": true
+    }
+  },
+  {
+    "id": "F-00024",
+    "machine_id": "HT-11",
+    "code": "SYN-A330",
+    "description": "DEF dosing system warning",
+    "severity": "medium",
+    "timestamp": "2026-01-02T06:52:00",
+    "operating_hours": 11958.0,
+    "zone": "road",
+    "lat": 40.046575,
+    "lng": -88.340793,
+    "context": {
+      "ambient_temp_c": -11.7,
+      "avg_load_pct": 69.0,
+      "hours_since_service": 208.0,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00036",
+    "machine_id": "HT-12",
+    "code": "SYN-A330",
+    "description": "DEF dosing system warning",
+    "severity": "medium",
+    "timestamp": "2026-01-02T06:55:00",
+    "operating_hours": 8470.6,
+    "zone": "pit",
+    "lat": 40.048052,
+    "lng": -88.343275,
+    "context": {
+      "ambient_temp_c": -11.7,
+      "avg_load_pct": 84.0,
+      "hours_since_service": 220.6,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00169",
+    "machine_id": "HT-11",
+    "code": "SYN-G101",
+    "description": "Low fuel level",
+    "severity": "low",
+    "timestamp": "2026-01-02T07:20:44.027715",
+    "operating_hours": 11958.4,
+    "zone": "road",
+    "lat": 40.046313,
+    "lng": -88.339921,
+    "context": {
+      "ambient_temp_c": -11.7,
+      "avg_load_pct": 69.0,
+      "hours_since_service": 208.4,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00122",
+    "machine_id": "DZ-06",
+    "code": "SYN-G110",
+    "description": "Air filter restriction",
+    "severity": "low",
+    "timestamp": "2026-01-02T09:59:03.998614",
+    "operating_hours": 4318.1,
+    "zone": "pit",
+    "lat": 40.047914,
+    "lng": -88.346534,
+    "context": {
+      "ambient_temp_c": 0.3,
+      "avg_load_pct": 52.0,
+      "hours_since_service": 68.1,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00181",
+    "machine_id": "HT-12",
+    "code": "SYN-G101",
+    "description": "Low fuel level",
+    "severity": "low",
+    "timestamp": "2026-01-02T12:28:31.504090",
+    "operating_hours": 8476.2,
+    "zone": "pit",
+    "lat": 40.048687,
+    "lng": -88.344525,
+    "context": {
+      "ambient_temp_c": 0.3,
+      "avg_load_pct": 84.0,
+      "hours_since_service": 226.2,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00079",
+    "machine_id": "EX-07",
+    "code": "SYN-G105",
+    "description": "Idle shutdown timer triggered",
+    "severity": "low",
+    "timestamp": "2026-01-02T16:53:26.038688",
+    "operating_hours": 2744.4,
+    "zone": "pit",
+    "lat": 40.048504,
+    "lng": -88.347247,
+    "context": {
+      "ambient_temp_c": 0.3,
+      "avg_load_pct": 51.0,
+      "hours_since_service": 244.4,
+      "washed_today": true
+    }
+  },
+  {
+    "id": "F-00137",
+    "machine_id": "LD-04",
+    "code": "SYN-G105",
+    "description": "Idle shutdown timer triggered",
+    "severity": "low",
+    "timestamp": "2026-01-03T10:58:18.328270",
+    "operating_hours": 8723.0,
+    "zone": "crush",
+    "lat": 40.0485,
+    "lng": -88.332517,
+    "context": {
+      "ambient_temp_c": 6.0,
+      "avg_load_pct": 73.0,
+      "hours_since_service": 223.0,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00016",
+    "machine_id": "HT-09",
+    "code": "SYN-A330",
+    "description": "DEF dosing system warning",
+    "severity": "medium",
+    "timestamp": "2026-01-11T07:11:00",
+    "operating_hours": 10649.9,
+    "zone": "pit",
+    "lat": 40.048065,
+    "lng": -88.348508,
+    "context": {
+      "ambient_temp_c": -10.5,
+      "avg_load_pct": 70.0,
+      "hours_since_service": 149.9,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00138",
+    "machine_id": "LD-04",
+    "code": "SYN-G105",
+    "description": "Idle shutdown timer triggered",
+    "severity": "low",
+    "timestamp": "2026-01-12T15:06:12.591641",
+    "operating_hours": 8793.5,
+    "zone": "crush",
+    "lat": 40.048042,
+    "lng": -88.332627,
+    "context": {
+      "ambient_temp_c": -0.4,
+      "avg_load_pct": 62.0,
+      "hours_since_service": 43.5,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00042",
+    "machine_id": "HT-14",
+    "code": "SYN-A330",
+    "description": "DEF dosing system warning",
+    "severity": "medium",
+    "timestamp": "2026-01-13T07:01:00",
+    "operating_hours": 6824.2,
+    "zone": "road",
+    "lat": 40.046694,
+    "lng": -88.33963,
+    "context": {
+      "ambient_temp_c": -9.4,
+      "avg_load_pct": 76.0,
+      "hours_since_service": 74.2,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00170",
+    "machine_id": "HT-11",
+    "code": "SYN-G105",
+    "description": "Idle shutdown timer triggered",
+    "severity": "low",
+    "timestamp": "2026-01-13T15:15:31.773357",
+    "operating_hours": 12062.0,
+    "zone": "road",
+    "lat": 40.046824,
+    "lng": -88.337839,
+    "context": {
+      "ambient_temp_c": 2.6,
+      "avg_load_pct": 81.0,
+      "hours_since_service": 62.0,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00061",
+    "machine_id": "EX-03",
+    "code": "SYN-G105",
+    "description": "Idle shutdown timer triggered",
+    "severity": "low",
+    "timestamp": "2026-01-14T08:13:15.053532",
+    "operating_hours": 6070.7,
+    "zone": "pit",
+    "lat": 40.047991,
+    "lng": -88.34334,
+    "context": {
+      "ambient_temp_c": -4.7,
+      "avg_load_pct": 63.0,
+      "hours_since_service": 70.7,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00017",
+    "machine_id": "HT-09",
+    "code": "SYN-A330",
+    "description": "DEF dosing system warning",
+    "severity": "medium",
+    "timestamp": "2026-01-15T07:18:00",
+    "operating_hours": 10690.7,
+    "zone": "crush",
+    "lat": 40.047593,
+    "lng": -88.334728,
+    "context": {
+      "ambient_temp_c": -6.6,
+      "avg_load_pct": 77.0,
+      "hours_since_service": 190.7,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00025",
+    "machine_id": "HT-11",
+    "code": "SYN-A330",
+    "description": "DEF dosing system warning",
+    "severity": "medium",
+    "timestamp": "2026-01-15T07:23:00",
+    "operating_hours": 12074.1,
+    "zone": "pit",
+    "lat": 40.04852,
+    "lng": -88.348308,
+    "context": {
+      "ambient_temp_c": -6.6,
+      "avg_load_pct": 63.0,
+      "hours_since_service": 74.1,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00123",
+    "machine_id": "DZ-06",
+    "code": "SYN-G101",
+    "description": "Low fuel level",
+    "severity": "low",
+    "timestamp": "2026-01-15T09:15:05.362749",
+    "operating_hours": 4376.1,
+    "zone": "pit",
+    "lat": 40.047977,
+    "lng": -88.347269,
+    "context": {
+      "ambient_temp_c": 5.4,
+      "avg_load_pct": 72.0,
+      "hours_since_service": 126.1,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00139",
+    "machine_id": "LD-04",
+    "code": "SYN-G110",
+    "description": "Air filter restriction",
+    "severity": "low",
+    "timestamp": "2026-01-15T09:40:48.941209",
+    "operating_hours": 8806.2,
+    "zone": "crush",
+    "lat": 40.048244,
+    "lng": -88.331554,
+    "context": {
+      "ambient_temp_c": 5.4,
+      "avg_load_pct": 58.0,
+      "hours_since_service": 56.2,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00037",
+    "machine_id": "HT-12",
+    "code": "SYN-A330",
+    "description": "DEF dosing system warning",
+    "severity": "medium",
+    "timestamp": "2026-01-17T07:17:00",
+    "operating_hours": 8581.8,
+    "zone": "road",
+    "lat": 40.046576,
+    "lng": -88.339553,
+    "context": {
+      "ambient_temp_c": -16.1,
+      "avg_load_pct": 63.0,
+      "hours_since_service": 81.8,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00149",
+    "machine_id": "LD-05",
+    "code": "SYN-G110",
+    "description": "Air filter restriction",
+    "severity": "low",
+    "timestamp": "2026-01-19T16:55:42.150884",
+    "operating_hours": 6226.7,
+    "zone": "crush",
+    "lat": 40.04876,
+    "lng": -88.332182,
+    "context": {
+      "ambient_temp_c": 4.7,
+      "avg_load_pct": 69.0,
+      "hours_since_service": 226.7,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00026",
+    "machine_id": "HT-11",
+    "code": "SYN-A330",
+    "description": "DEF dosing system warning",
+    "severity": "medium",
+    "timestamp": "2026-01-20T07:03:00",
+    "operating_hours": 12116.4,
+    "zone": "road",
+    "lat": 40.046664,
+    "lng": -88.337741,
+    "context": {
+      "ambient_temp_c": -10.6,
+      "avg_load_pct": 58.0,
+      "hours_since_service": 116.4,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00043",
+    "machine_id": "HT-14",
+    "code": "SYN-A330",
+    "description": "DEF dosing system warning",
+    "severity": "medium",
+    "timestamp": "2026-01-21T07:03:00",
+    "operating_hours": 6899.0,
+    "zone": "crush",
+    "lat": 40.047627,
+    "lng": -88.333785,
+    "context": {
+      "ambient_temp_c": -10.8,
+      "avg_load_pct": 56.0,
+      "hours_since_service": 149.0,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00062",
+    "machine_id": "EX-03",
+    "code": "SYN-G110",
+    "description": "Air filter restriction",
+    "severity": "low",
+    "timestamp": "2026-01-21T07:55:33.171439",
+    "operating_hours": 6114.7,
+    "zone": "pit",
+    "lat": 40.048635,
+    "lng": -88.347087,
+    "context": {
+      "ambient_temp_c": -10.8,
+      "avg_load_pct": 50.0,
+      "hours_since_service": 114.7,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00159",
+    "machine_id": "HT-09",
+    "code": "SYN-G101",
+    "description": "Low fuel level",
+    "severity": "low",
+    "timestamp": "2026-01-21T08:25:26.888505",
+    "operating_hours": 10751.1,
+    "zone": "crush",
+    "lat": 40.048631,
+    "lng": -88.331853,
+    "context": {
+      "ambient_temp_c": -10.8,
+      "avg_load_pct": 70.0,
+      "hours_since_service": 1.1,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00150",
+    "machine_id": "LD-05",
+    "code": "SYN-G110",
+    "description": "Air filter restriction",
+    "severity": "low",
+    "timestamp": "2026-01-26T10:45:11.617806",
+    "operating_hours": 6280.4,
+    "zone": "crush",
+    "lat": 40.048644,
+    "lng": -88.334014,
+    "context": {
+      "ambient_temp_c": 7.3,
+      "avg_load_pct": 74.0,
+      "hours_since_service": 30.4,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00063",
+    "machine_id": "EX-03",
+    "code": "SYN-G105",
+    "description": "Idle shutdown timer triggered",
+    "severity": "low",
+    "timestamp": "2026-01-26T13:19:10.210921",
+    "operating_hours": 6136.1,
+    "zone": "pit",
+    "lat": 40.048443,
+    "lng": -88.348425,
+    "context": {
+      "ambient_temp_c": 7.3,
+      "avg_load_pct": 76.0,
+      "hours_since_service": 136.1,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00044",
+    "machine_id": "HT-14",
+    "code": "SYN-A330",
+    "description": "DEF dosing system warning",
+    "severity": "medium",
+    "timestamp": "2026-01-27T06:57:00",
+    "operating_hours": 6928.4,
+    "zone": "pit",
+    "lat": 40.048135,
+    "lng": -88.344766,
+    "context": {
+      "ambient_temp_c": -10.0,
+      "avg_load_pct": 82.0,
+      "hours_since_service": 178.4,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00027",
+    "machine_id": "HT-11",
+    "code": "SYN-A330",
+    "description": "DEF dosing system warning",
+    "severity": "medium",
+    "timestamp": "2026-01-27T07:07:00",
+    "operating_hours": 12190.4,
+    "zone": "road",
+    "lat": 40.046932,
+    "lng": -88.338905,
+    "context": {
+      "ambient_temp_c": -10.0,
+      "avg_load_pct": 59.0,
+      "hours_since_service": 190.4,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00160",
+    "machine_id": "HT-09",
+    "code": "SYN-G105",
+    "description": "Idle shutdown timer triggered",
+    "severity": "low",
+    "timestamp": "2026-01-27T11:01:26.401515",
+    "operating_hours": 10794.4,
+    "zone": "road",
+    "lat": 40.046422,
+    "lng": -88.339831,
+    "context": {
+      "ambient_temp_c": 2.0,
+      "avg_load_pct": 68.0,
+      "hours_since_service": 44.4,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00028",
+    "machine_id": "HT-11",
+    "code": "SYN-A330",
+    "description": "DEF dosing system warning",
+    "severity": "medium",
+    "timestamp": "2026-01-28T07:14:00",
+    "operating_hours": 12200.9,
+    "zone": "road",
+    "lat": 40.046553,
+    "lng": -88.338728,
+    "context": {
+      "ambient_temp_c": -9.7,
+      "avg_load_pct": 61.0,
+      "hours_since_service": 200.9,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00171",
+    "machine_id": "HT-11",
+    "code": "SYN-G101",
+    "description": "Low fuel level",
+    "severity": "low",
+    "timestamp": "2026-01-31T08:48:31.475728",
+    "operating_hours": 12221.6,
+    "zone": "road",
+    "lat": 40.04647,
+    "lng": -88.338424,
+    "context": {
+      "ambient_temp_c": -7.8,
+      "avg_load_pct": 63.0,
+      "hours_since_service": 221.6,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00099",
+    "machine_id": "EX-10",
+    "code": "SYN-G101",
+    "description": "Low fuel level",
+    "severity": "low",
+    "timestamp": "2026-01-31T12:41:55.696061",
+    "operating_hours": 7518.7,
+    "zone": "crush",
+    "lat": 40.047631,
+    "lng": -88.333469,
+    "context": {
+      "ambient_temp_c": 4.2,
+      "avg_load_pct": 74.0,
+      "hours_since_service": 18.7,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00029",
+    "machine_id": "HT-11",
+    "code": "SYN-A330",
+    "description": "DEF dosing system warning",
+    "severity": "medium",
+    "timestamp": "2026-02-01T07:01:00",
+    "operating_hours": 12231.6,
+    "zone": "crush",
+    "lat": 40.048409,
+    "lng": -88.332874,
+    "context": {
+      "ambient_temp_c": -12.0,
+      "avg_load_pct": 64.0,
+      "hours_since_service": 231.6,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00004",
+    "machine_id": "EX-08",
+    "code": "SYN-E214",
+    "description": "Boom position sensor signal erratic",
+    "severity": "medium",
+    "timestamp": "2026-02-03T08:40:00",
+    "operating_hours": 4767.3,
+    "zone": "pit",
+    "lat": 40.048766,
+    "lng": -88.345544,
+    "context": {
+      "ambient_temp_c": -8.2,
+      "avg_load_pct": 65.0,
+      "hours_since_service": 17.3,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00030",
+    "machine_id": "HT-11",
+    "code": "SYN-A330",
+    "description": "DEF dosing system warning",
+    "severity": "medium",
+    "timestamp": "2026-02-05T06:54:00",
+    "operating_hours": 12263.7,
+    "zone": "crush",
+    "lat": 40.048095,
+    "lng": -88.330991,
+    "context": {
+      "ambient_temp_c": -7.3,
+      "avg_load_pct": 50.0,
+      "hours_since_service": 13.7,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00049",
+    "machine_id": "EX-01",
+    "code": "SYN-G101",
+    "description": "Low fuel level",
+    "severity": "low",
+    "timestamp": "2026-02-05T12:40:30.803016",
+    "operating_hours": 3846.7,
+    "zone": "pit",
+    "lat": 40.047678,
+    "lng": -88.345026,
+    "context": {
+      "ambient_temp_c": 4.7,
+      "avg_load_pct": 81.0,
+      "hours_since_service": 96.7,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00124",
+    "machine_id": "DZ-06",
+    "code": "SYN-G101",
+    "description": "Low fuel level",
+    "severity": "low",
+    "timestamp": "2026-02-06T08:41:30.563894",
+    "operating_hours": 4481.5,
+    "zone": "pit",
+    "lat": 40.047529,
+    "lng": -88.348137,
+    "context": {
+      "ambient_temp_c": -3.9,
+      "avg_load_pct": 47.0,
+      "hours_since_service": 231.5,
+      "washed_today": true
+    }
+  },
+  {
+    "id": "F-00194",
+    "machine_id": "HT-14",
+    "code": "SYN-G105",
+    "description": "Idle shutdown timer triggered",
+    "severity": "low",
+    "timestamp": "2026-02-13T13:34:04.299348",
+    "operating_hours": 7054.1,
+    "zone": "pit",
+    "lat": 40.047723,
+    "lng": -88.343319,
+    "context": {
+      "ambient_temp_c": 6.5,
+      "avg_load_pct": 70.0,
+      "hours_since_service": 54.1,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00151",
+    "machine_id": "LD-05",
+    "code": "SYN-G110",
+    "description": "Air filter restriction",
+    "severity": "low",
+    "timestamp": "2026-02-14T11:42:34.147105",
+    "operating_hours": 6409.6,
+    "zone": "crush",
+    "lat": 40.048422,
+    "lng": -88.333798,
+    "context": {
+      "ambient_temp_c": 9.4,
+      "avg_load_pct": 63.0,
+      "hours_since_service": 159.6,
+      "washed_today": true
+    }
+  },
+  {
+    "id": "F-00125",
+    "machine_id": "DZ-06",
+    "code": "SYN-G110",
+    "description": "Air filter restriction",
+    "severity": "low",
+    "timestamp": "2026-02-17T07:09:29.633561",
+    "operating_hours": 4513.2,
+    "zone": "pit",
+    "lat": 40.047693,
+    "lng": -88.345443,
+    "context": {
+      "ambient_temp_c": -8.4,
+      "avg_load_pct": 76.0,
+      "hours_since_service": 13.2,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00031",
+    "machine_id": "HT-11",
+    "code": "SYN-A330",
+    "description": "DEF dosing system warning",
+    "severity": "medium",
+    "timestamp": "2026-02-18T06:55:00",
+    "operating_hours": 12367.1,
+    "zone": "road",
+    "lat": 40.046981,
+    "lng": -88.338797,
+    "context": {
+      "ambient_temp_c": -10.4,
+      "avg_load_pct": 52.0,
+      "hours_since_service": 117.1,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00005",
+    "machine_id": "EX-08",
+    "code": "SYN-E214",
+    "description": "Boom position sensor signal erratic",
+    "severity": "medium",
+    "timestamp": "2026-02-19T07:37:00",
+    "operating_hours": 4889.8,
+    "zone": "pit",
+    "lat": 40.047846,
+    "lng": -88.345126,
+    "context": {
+      "ambient_temp_c": -5.9,
+      "avg_load_pct": 62.0,
+      "hours_since_service": 139.8,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00032",
+    "machine_id": "HT-11",
+    "code": "SYN-A330",
+    "description": "DEF dosing system warning",
+    "severity": "medium",
+    "timestamp": "2026-02-20T07:04:00",
+    "operating_hours": 12387.4,
+    "zone": "road",
+    "lat": 40.046366,
+    "lng": -88.339124,
+    "context": {
+      "ambient_temp_c": -7.0,
+      "avg_load_pct": 46.0,
+      "hours_since_service": 137.4,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00080",
+    "machine_id": "EX-07",
+    "code": "SYN-G110",
+    "description": "Air filter restriction",
+    "severity": "low",
+    "timestamp": "2026-02-20T07:46:17.369807",
+    "operating_hours": 3046.1,
+    "zone": "pit",
+    "lat": 40.048264,
+    "lng": -88.344212,
+    "context": {
+      "ambient_temp_c": -7.0,
+      "avg_load_pct": 85.0,
+      "hours_since_service": 46.1,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00126",
+    "machine_id": "DZ-06",
+    "code": "SYN-G105",
+    "description": "Idle shutdown timer triggered",
+    "severity": "low",
+    "timestamp": "2026-02-20T08:11:59.435545",
+    "operating_hours": 4529.8,
+    "zone": "pit",
+    "lat": 40.048048,
+    "lng": -88.343341,
+    "context": {
+      "ambient_temp_c": -7.0,
+      "avg_load_pct": 58.0,
+      "hours_since_service": 29.8,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00140",
+    "machine_id": "LD-04",
+    "code": "SYN-G101",
+    "description": "Low fuel level",
+    "severity": "low",
+    "timestamp": "2026-02-21T09:33:12.185228",
+    "operating_hours": 9002.0,
+    "zone": "crush",
+    "lat": 40.047648,
+    "lng": -88.333026,
+    "context": {
+      "ambient_temp_c": 11.8,
+      "avg_load_pct": 80.0,
+      "hours_since_service": 2.0,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00161",
+    "machine_id": "HT-09",
+    "code": "SYN-G101",
+    "description": "Low fuel level",
+    "severity": "low",
+    "timestamp": "2026-02-21T14:00:22.715515",
+    "operating_hours": 10971.8,
+    "zone": "road",
+    "lat": 40.046569,
+    "lng": -88.338039,
+    "context": {
+      "ambient_temp_c": 11.8,
+      "avg_load_pct": 77.0,
+      "hours_since_service": 221.8,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00162",
+    "machine_id": "HT-09",
+    "code": "SYN-G101",
+    "description": "Low fuel level",
+    "severity": "low",
+    "timestamp": "2026-02-26T14:53:54.835823",
+    "operating_hours": 11018.3,
+    "zone": "pit",
+    "lat": 40.04773,
+    "lng": -88.345468,
+    "context": {
+      "ambient_temp_c": 7.3,
+      "avg_load_pct": 73.0,
+      "hours_since_service": 18.3,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00045",
+    "machine_id": "HT-14",
+    "code": "SYN-A330",
+    "description": "DEF dosing system warning",
+    "severity": "medium",
+    "timestamp": "2026-03-02T07:18:00",
+    "operating_hours": 7163.8,
+    "zone": "crush",
+    "lat": 40.047563,
+    "lng": -88.333832,
+    "context": {
+      "ambient_temp_c": -8.2,
+      "avg_load_pct": 80.0,
+      "hours_since_service": 163.8,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00006",
+    "machine_id": "EX-08",
+    "code": "SYN-E214",
+    "description": "Boom position sensor signal erratic",
+    "severity": "medium",
+    "timestamp": "2026-03-02T12:06:00",
+    "operating_hours": 4950.7,
+    "zone": "pit",
+    "lat": 40.048031,
+    "lng": -88.343838,
+    "context": {
+      "ambient_temp_c": 3.8,
+      "avg_load_pct": 74.0,
+      "hours_since_service": 200.7,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00172",
+    "machine_id": "HT-11",
+    "code": "SYN-G101",
+    "description": "Low fuel level",
+    "severity": "low",
+    "timestamp": "2026-03-04T08:03:50.286729",
+    "operating_hours": 12469.9,
+    "zone": "road",
+    "lat": 40.046373,
+    "lng": -88.338685,
+    "context": {
+      "ambient_temp_c": -2.9,
+      "avg_load_pct": 55.0,
+      "hours_since_service": 219.9,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00152",
+    "machine_id": "LD-05",
+    "code": "SYN-G110",
+    "description": "Air filter restriction",
+    "severity": "low",
+    "timestamp": "2026-03-05T11:57:14.755451",
+    "operating_hours": 6512.9,
+    "zone": "crush",
+    "lat": 40.048796,
+    "lng": -88.332083,
+    "context": {
+      "ambient_temp_c": 9.2,
+      "avg_load_pct": 73.0,
+      "hours_since_service": 12.9,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00173",
+    "machine_id": "HT-11",
+    "code": "SYN-G101",
+    "description": "Low fuel level",
+    "severity": "low",
+    "timestamp": "2026-03-06T07:45:08.470721",
+    "operating_hours": 12490.6,
+    "zone": "pit",
+    "lat": 40.047974,
+    "lng": -88.346564,
+    "context": {
+      "ambient_temp_c": -6.2,
+      "avg_load_pct": 69.0,
+      "hours_since_service": 240.6,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00081",
+    "machine_id": "EX-07",
+    "code": "SYN-G110",
+    "description": "Air filter restriction",
+    "severity": "low",
+    "timestamp": "2026-03-07T08:03:49.667803",
+    "operating_hours": 3129.2,
+    "zone": "pit",
+    "lat": 40.047715,
+    "lng": -88.346532,
+    "context": {
+      "ambient_temp_c": -0.5,
+      "avg_load_pct": 47.0,
+      "hours_since_service": 129.2,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00090",
+    "machine_id": "EX-08",
+    "code": "SYN-G105",
+    "description": "Idle shutdown timer triggered",
+    "severity": "low",
+    "timestamp": "2026-03-08T15:01:57.799004",
+    "operating_hours": 4992.6,
+    "zone": "pit",
+    "lat": 40.04839,
+    "lng": -88.34675,
+    "context": {
+      "ambient_temp_c": 8.5,
+      "avg_load_pct": 54.0,
+      "hours_since_service": 242.6,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00108",
+    "machine_id": "DZ-02",
+    "code": "SYN-G110",
+    "description": "Air filter restriction",
+    "severity": "low",
+    "timestamp": "2026-03-10T09:03:18.457231",
+    "operating_hours": 8180.1,
+    "zone": "pit",
+    "lat": 40.04827,
+    "lng": -88.347135,
+    "context": {
+      "ambient_temp_c": 12.4,
+      "avg_load_pct": 48.0,
+      "hours_since_service": 180.1,
+      "washed_today": true
+    }
+  },
+  {
+    "id": "F-00163",
+    "machine_id": "HT-09",
+    "code": "SYN-G101",
+    "description": "Low fuel level",
+    "severity": "low",
+    "timestamp": "2026-03-10T13:00:39.942215",
+    "operating_hours": 11114.0,
+    "zone": "crush",
+    "lat": 40.048555,
+    "lng": -88.331506,
+    "context": {
+      "ambient_temp_c": 12.4,
+      "avg_load_pct": 64.0,
+      "hours_since_service": 114.0,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00164",
+    "machine_id": "HT-09",
+    "code": "SYN-G105",
+    "description": "Idle shutdown timer triggered",
+    "severity": "low",
+    "timestamp": "2026-03-14T15:55:24.305861",
+    "operating_hours": 11154.8,
+    "zone": "road",
+    "lat": 40.046781,
+    "lng": -88.340708,
+    "context": {
+      "ambient_temp_c": 10.1,
+      "avg_load_pct": 50.0,
+      "hours_since_service": 154.8,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00082",
+    "machine_id": "EX-07",
+    "code": "SYN-G101",
+    "description": "Low fuel level",
+    "severity": "low",
+    "timestamp": "2026-03-16T11:44:44.534137",
+    "operating_hours": 3183.0,
+    "zone": "pit",
+    "lat": 40.048451,
+    "lng": -88.345848,
+    "context": {
+      "ambient_temp_c": 10.2,
+      "avg_load_pct": 80.0,
+      "hours_since_service": 183.0,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00141",
+    "machine_id": "LD-04",
+    "code": "SYN-G110",
+    "description": "Air filter restriction",
+    "severity": "low",
+    "timestamp": "2026-03-20T15:40:54.372860",
+    "operating_hours": 9167.3,
+    "zone": "crush",
+    "lat": 40.048014,
+    "lng": -88.333098,
+    "context": {
+      "ambient_temp_c": 14.3,
+      "avg_load_pct": 76.0,
+      "hours_since_service": 167.3,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00174",
+    "machine_id": "HT-11",
+    "code": "SYN-G105",
+    "description": "Idle shutdown timer triggered",
+    "severity": "low",
+    "timestamp": "2026-03-22T07:14:31.232665",
+    "operating_hours": 12635.2,
+    "zone": "road",
+    "lat": 40.046611,
+    "lng": -88.340082,
+    "context": {
+      "ambient_temp_c": -6.1,
+      "avg_load_pct": 66.0,
+      "hours_since_service": 135.2,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00195",
+    "machine_id": "HT-14",
+    "code": "SYN-G101",
+    "description": "Low fuel level",
+    "severity": "low",
+    "timestamp": "2026-03-22T10:23:40.576830",
+    "operating_hours": 7322.6,
+    "zone": "pit",
+    "lat": 40.048655,
+    "lng": -88.345122,
+    "context": {
+      "ambient_temp_c": 5.9,
+      "avg_load_pct": 65.0,
+      "hours_since_service": 72.6,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00127",
+    "machine_id": "DZ-06",
+    "code": "SYN-G110",
+    "description": "Air filter restriction",
+    "severity": "low",
+    "timestamp": "2026-03-30T16:47:26.864807",
+    "operating_hours": 4729.3,
+    "zone": "pit",
+    "lat": 40.048761,
+    "lng": -88.348216,
+    "context": {
+      "ambient_temp_c": 12.3,
+      "avg_load_pct": 65.0,
+      "hours_since_service": 229.3,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00196",
+    "machine_id": "HT-14",
+    "code": "SYN-G105",
+    "description": "Idle shutdown timer triggered",
+    "severity": "low",
+    "timestamp": "2026-04-03T08:09:39.211442",
+    "operating_hours": 7423.0,
+    "zone": "road",
+    "lat": 40.046725,
+    "lng": -88.338657,
+    "context": {
+      "ambient_temp_c": -0.4,
+      "avg_load_pct": 48.0,
+      "hours_since_service": 173.0,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00182",
+    "machine_id": "HT-12",
+    "code": "SYN-G101",
+    "description": "Low fuel level",
+    "severity": "low",
+    "timestamp": "2026-04-05T13:13:43.556089",
+    "operating_hours": 9210.7,
+    "zone": "road",
+    "lat": 40.04648,
+    "lng": -88.337641,
+    "context": {
+      "ambient_temp_c": 15.8,
+      "avg_load_pct": 53.0,
+      "hours_since_service": 210.7,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00109",
+    "machine_id": "DZ-02",
+    "code": "SYN-G105",
+    "description": "Idle shutdown timer triggered",
+    "severity": "low",
+    "timestamp": "2026-04-07T13:34:48.837875",
+    "operating_hours": 8307.1,
+    "zone": "pit",
+    "lat": 40.048126,
+    "lng": -88.345792,
+    "context": {
+      "ambient_temp_c": 16.0,
+      "avg_load_pct": 74.0,
+      "hours_since_service": 57.1,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00142",
+    "machine_id": "LD-04",
+    "code": "SYN-G110",
+    "description": "Air filter restriction",
+    "severity": "low",
+    "timestamp": "2026-04-09T08:17:54.934820",
+    "operating_hours": 9312.4,
+    "zone": "crush",
+    "lat": 40.048277,
+    "lng": -88.334171,
+    "context": {
+      "ambient_temp_c": 1.1,
+      "avg_load_pct": 85.0,
+      "hours_since_service": 62.4,
+      "washed_today": true
+    }
+  },
+  {
+    "id": "F-00100",
+    "machine_id": "EX-10",
+    "code": "SYN-G105",
+    "description": "Idle shutdown timer triggered",
+    "severity": "low",
+    "timestamp": "2026-04-10T16:01:37.352718",
+    "operating_hours": 7927.5,
+    "zone": "crush",
+    "lat": 40.048405,
+    "lng": -88.332776,
+    "context": {
+      "ambient_temp_c": 16.6,
+      "avg_load_pct": 76.0,
+      "hours_since_service": 177.5,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00050",
+    "machine_id": "EX-01",
+    "code": "SYN-G105",
+    "description": "Idle shutdown timer triggered",
+    "severity": "low",
+    "timestamp": "2026-04-11T12:20:55.491099",
+    "operating_hours": 4237.4,
+    "zone": "pit",
+    "lat": 40.048514,
+    "lng": -88.343781,
+    "context": {
+      "ambient_temp_c": 15.7,
+      "avg_load_pct": 73.0,
+      "hours_since_service": 237.4,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00165",
+    "machine_id": "HT-09",
+    "code": "SYN-G110",
+    "description": "Air filter restriction",
+    "severity": "low",
+    "timestamp": "2026-04-13T09:40:39.033953",
+    "operating_hours": 11377.7,
+    "zone": "crush",
+    "lat": 40.048218,
+    "lng": -88.331866,
+    "context": {
+      "ambient_temp_c": 10.6,
+      "avg_load_pct": 84.0,
+      "hours_since_service": 127.7,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00110",
+    "machine_id": "DZ-02",
+    "code": "SYN-G110",
+    "description": "Air filter restriction",
+    "severity": "low",
+    "timestamp": "2026-04-16T08:51:19.480295",
+    "operating_hours": 8353.5,
+    "zone": "pit",
+    "lat": 40.047889,
+    "lng": -88.345913,
+    "context": {
+      "ambient_temp_c": 4.6,
+      "avg_load_pct": 82.0,
+      "hours_since_service": 103.5,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00091",
+    "machine_id": "EX-08",
+    "code": "SYN-G101",
+    "description": "Low fuel level",
+    "severity": "low",
+    "timestamp": "2026-04-17T14:51:32.247814",
+    "operating_hours": 5236.3,
+    "zone": "pit",
+    "lat": 40.048113,
+    "lng": -88.347724,
+    "context": {
+      "ambient_temp_c": 22.9,
+      "avg_load_pct": 71.0,
+      "hours_since_service": 236.3,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00064",
+    "machine_id": "EX-03",
+    "code": "SYN-G110",
+    "description": "Air filter restriction",
+    "severity": "low",
+    "timestamp": "2026-04-20T12:50:11.735644",
+    "operating_hours": 6616.6,
+    "zone": "pit",
+    "lat": 40.047609,
+    "lng": -88.343292,
+    "context": {
+      "ambient_temp_c": 16.6,
+      "avg_load_pct": 46.0,
+      "hours_since_service": 116.6,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00009",
+    "machine_id": "EX-10",
+    "code": "SYN-E214",
+    "description": "Boom position sensor signal erratic",
+    "severity": "medium",
+    "timestamp": "2026-04-21T13:10:00",
+    "operating_hours": 7973.2,
+    "zone": "crush",
+    "lat": 40.047728,
+    "lng": -88.333284,
+    "context": {
+      "ambient_temp_c": 19.2,
+      "avg_load_pct": 78.0,
+      "hours_since_service": 223.2,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00111",
+    "machine_id": "DZ-02",
+    "code": "SYN-G105",
+    "description": "Idle shutdown timer triggered",
+    "severity": "low",
+    "timestamp": "2026-04-24T12:59:05.886040",
+    "operating_hours": 8402.5,
+    "zone": "pit",
+    "lat": 40.047954,
+    "lng": -88.345133,
+    "context": {
+      "ambient_temp_c": 19.0,
+      "avg_load_pct": 75.0,
+      "hours_since_service": 152.5,
+      "washed_today": true
+    }
+  },
+  {
+    "id": "F-00092",
+    "machine_id": "EX-08",
+    "code": "SYN-G101",
+    "description": "Low fuel level",
+    "severity": "low",
+    "timestamp": "2026-05-03T13:21:53.983170",
+    "operating_hours": 5317.2,
+    "zone": "pit",
+    "lat": 40.048505,
+    "lng": -88.343562,
+    "context": {
+      "ambient_temp_c": 30.5,
+      "avg_load_pct": 68.0,
+      "hours_since_service": 67.2,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00051",
+    "machine_id": "EX-01",
+    "code": "SYN-G105",
+    "description": "Idle shutdown timer triggered",
+    "severity": "low",
+    "timestamp": "2026-05-04T11:19:27.105267",
+    "operating_hours": 4350.7,
+    "zone": "pit",
+    "lat": 40.047719,
+    "lng": -88.348216,
+    "context": {
+      "ambient_temp_c": 18.6,
+      "avg_load_pct": 85.0,
+      "hours_since_service": 100.7,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00183",
+    "machine_id": "HT-12",
+    "code": "SYN-G101",
+    "description": "Low fuel level",
+    "severity": "low",
+    "timestamp": "2026-05-06T10:32:40.094620",
+    "operating_hours": 9470.4,
+    "zone": "pit",
+    "lat": 40.048462,
+    "lng": -88.343873,
+    "context": {
+      "ambient_temp_c": 20.0,
+      "avg_load_pct": 68.0,
+      "hours_since_service": 220.4,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00112",
+    "machine_id": "DZ-02",
+    "code": "SYN-G110",
+    "description": "Air filter restriction",
+    "severity": "low",
+    "timestamp": "2026-05-09T15:53:45.000442",
+    "operating_hours": 8496.7,
+    "zone": "pit",
+    "lat": 40.048125,
+    "lng": -88.344548,
+    "context": {
+      "ambient_temp_c": 26.2,
+      "avg_load_pct": 78.0,
+      "hours_since_service": 246.7,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00113",
+    "machine_id": "DZ-02",
+    "code": "SYN-G101",
+    "description": "Low fuel level",
+    "severity": "low",
+    "timestamp": "2026-05-11T07:55:03.436755",
+    "operating_hours": 8505.7,
+    "zone": "pit",
+    "lat": 40.048201,
+    "lng": -88.343812,
+    "context": {
+      "ambient_temp_c": 6.0,
+      "avg_load_pct": 71.0,
+      "hours_since_service": 5.7,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00052",
+    "machine_id": "EX-01",
+    "code": "SYN-G105",
+    "description": "Idle shutdown timer triggered",
+    "severity": "low",
+    "timestamp": "2026-05-11T16:07:33.223391",
+    "operating_hours": 4403.7,
+    "zone": "pit",
+    "lat": 40.048567,
+    "lng": -88.345661,
+    "context": {
+      "ambient_temp_c": 18.0,
+      "avg_load_pct": 65.0,
+      "hours_since_service": 153.7,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00101",
+    "machine_id": "EX-10",
+    "code": "SYN-G110",
+    "description": "Air filter restriction",
+    "severity": "low",
+    "timestamp": "2026-05-13T15:26:20.048988",
+    "operating_hours": 8087.2,
+    "zone": "crush",
+    "lat": 40.047918,
+    "lng": -88.333533,
+    "context": {
+      "ambient_temp_c": 26.9,
+      "avg_load_pct": 83.0,
+      "hours_since_service": 87.2,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00143",
+    "machine_id": "LD-04",
+    "code": "SYN-G101",
+    "description": "Low fuel level",
+    "severity": "low",
+    "timestamp": "2026-05-15T07:01:58.268460",
+    "operating_hours": 9520.4,
+    "zone": "crush",
+    "lat": 40.048118,
+    "lng": -88.331409,
+    "context": {
+      "ambient_temp_c": 5.8,
+      "avg_load_pct": 70.0,
+      "hours_since_service": 20.4,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00153",
+    "machine_id": "LD-05",
+    "code": "SYN-G101",
+    "description": "Low fuel level",
+    "severity": "low",
+    "timestamp": "2026-05-17T09:21:16.811762",
+    "operating_hours": 6912.4,
+    "zone": "crush",
+    "lat": 40.048595,
+    "lng": -88.333088,
+    "context": {
+      "ambient_temp_c": 28.3,
+      "avg_load_pct": 80.0,
+      "hours_since_service": 162.4,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00065",
+    "machine_id": "EX-03",
+    "code": "SYN-G101",
+    "description": "Low fuel level",
+    "severity": "low",
+    "timestamp": "2026-05-19T10:14:38.250886",
+    "operating_hours": 6804.8,
+    "zone": "pit",
+    "lat": 40.047872,
+    "lng": -88.345353,
+    "context": {
+      "ambient_temp_c": 26.2,
+      "avg_load_pct": 55.0,
+      "hours_since_service": 54.8,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00010",
+    "machine_id": "DZ-06",
+    "code": "SYN-E412",
+    "description": "Sensor circuit intermittent, possible moisture",
+    "severity": "medium",
+    "timestamp": "2026-05-19T10:25:00",
+    "operating_hours": 4978.3,
+    "zone": "wash",
+    "lat": 40.04548,
+    "lng": -88.334227,
+    "context": {
+      "ambient_temp_c": 26.2,
+      "avg_load_pct": 74.0,
+      "hours_since_service": 228.3,
+      "washed_today": true
+    }
+  },
+  {
+    "id": "F-00197",
+    "machine_id": "HT-14",
+    "code": "SYN-G105",
+    "description": "Idle shutdown timer triggered",
+    "severity": "low",
+    "timestamp": "2026-05-20T15:53:37.568915",
+    "operating_hours": 7779.5,
+    "zone": "road",
+    "lat": 40.046525,
+    "lng": -88.340665,
+    "context": {
+      "ambient_temp_c": 25.6,
+      "avg_load_pct": 65.0,
+      "hours_since_service": 29.5,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00066",
+    "machine_id": "EX-03",
+    "code": "SYN-G101",
+    "description": "Low fuel level",
+    "severity": "low",
+    "timestamp": "2026-05-21T07:14:33.029202",
+    "operating_hours": 6816.1,
+    "zone": "pit",
+    "lat": 40.047793,
+    "lng": -88.346974,
+    "context": {
+      "ambient_temp_c": 9.2,
+      "avg_load_pct": 51.0,
+      "hours_since_service": 66.1,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00198",
+    "machine_id": "HT-14",
+    "code": "SYN-G110",
+    "description": "Air filter restriction",
+    "severity": "low",
+    "timestamp": "2026-05-22T11:46:02.382301",
+    "operating_hours": 7796.3,
+    "zone": "road",
+    "lat": 40.046826,
+    "lng": -88.339911,
+    "context": {
+      "ambient_temp_c": 22.6,
+      "avg_load_pct": 58.0,
+      "hours_since_service": 46.3,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00102",
+    "machine_id": "EX-10",
+    "code": "SYN-G105",
+    "description": "Idle shutdown timer triggered",
+    "severity": "low",
+    "timestamp": "2026-06-04T07:30:05.507154",
+    "operating_hours": 8208.5,
+    "zone": "crush",
+    "lat": 40.048355,
+    "lng": -88.331089,
+    "context": {
+      "ambient_temp_c": 15.6,
+      "avg_load_pct": 72.0,
+      "hours_since_service": 208.5,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00053",
+    "machine_id": "EX-01",
+    "code": "SYN-G110",
+    "description": "Air filter restriction",
+    "severity": "low",
+    "timestamp": "2026-06-04T12:55:07.320302",
+    "operating_hours": 4549.8,
+    "zone": "pit",
+    "lat": 40.048329,
+    "lng": -88.347834,
+    "context": {
+      "ambient_temp_c": 27.6,
+      "avg_load_pct": 61.0,
+      "hours_since_service": 49.8,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00046",
+    "machine_id": "HT-11",
+    "code": "SYN-H520",
+    "description": "Final drive oil level low, leak suspected",
+    "severity": "high",
+    "timestamp": "2026-06-05T12:04:00",
+    "operating_hours": 13239.7,
+    "zone": "road",
+    "lat": 40.046416,
+    "lng": -88.340383,
+    "context": {
+      "ambient_temp_c": 30.6,
+      "avg_load_pct": 53.0,
+      "hours_since_service": 239.7,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00154",
+    "machine_id": "LD-05",
+    "code": "SYN-G105",
+    "description": "Idle shutdown timer triggered",
+    "severity": "low",
+    "timestamp": "2026-06-06T16:48:40.625216",
+    "operating_hours": 7051.6,
+    "zone": "crush",
+    "lat": 40.048116,
+    "lng": -88.33123,
+    "context": {
+      "ambient_temp_c": 26.5,
+      "avg_load_pct": 51.0,
+      "hours_since_service": 51.6,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00184",
+    "machine_id": "HT-12",
+    "code": "SYN-G101",
+    "description": "Low fuel level",
+    "severity": "low",
+    "timestamp": "2026-06-08T15:47:58.488770",
+    "operating_hours": 9761.4,
+    "zone": "road",
+    "lat": 40.046784,
+    "lng": -88.338245,
+    "context": {
+      "ambient_temp_c": 26.0,
+      "avg_load_pct": 61.0,
+      "hours_since_service": 11.4,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00007",
+    "machine_id": "EX-01",
+    "code": "SYN-E214",
+    "description": "Boom position sensor signal erratic",
+    "severity": "medium",
+    "timestamp": "2026-06-10T11:05:00",
+    "operating_hours": 4580.3,
+    "zone": "pit",
+    "lat": 40.04817,
+    "lng": -88.343356,
+    "context": {
+      "ambient_temp_c": 31.3,
+      "avg_load_pct": 64.0,
+      "hours_since_service": 80.3,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00067",
+    "machine_id": "EX-03",
+    "code": "SYN-G101",
+    "description": "Low fuel level",
+    "severity": "low",
+    "timestamp": "2026-06-17T16:42:35.026655",
+    "operating_hours": 6946.3,
+    "zone": "pit",
+    "lat": 40.048111,
+    "lng": -88.346028,
+    "context": {
+      "ambient_temp_c": 36.2,
+      "avg_load_pct": 63.0,
+      "hours_since_service": 196.3,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00093",
+    "machine_id": "EX-08",
+    "code": "SYN-G105",
+    "description": "Idle shutdown timer triggered",
+    "severity": "low",
+    "timestamp": "2026-06-19T11:27:38.376951",
+    "operating_hours": 5594.8,
+    "zone": "pit",
+    "lat": 40.048674,
+    "lng": -88.347609,
+    "context": {
+      "ambient_temp_c": 25.3,
+      "avg_load_pct": 57.0,
+      "hours_since_service": 94.8,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00103",
+    "machine_id": "EX-10",
+    "code": "SYN-G101",
+    "description": "Low fuel level",
+    "severity": "low",
+    "timestamp": "2026-06-22T07:35:13.914155",
+    "operating_hours": 8311.9,
+    "zone": "crush",
+    "lat": 40.048716,
+    "lng": -88.335074,
+    "context": {
+      "ambient_temp_c": 20.1,
+      "avg_load_pct": 53.0,
+      "hours_since_service": 61.9,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00144",
+    "machine_id": "LD-04",
+    "code": "SYN-G101",
+    "description": "Low fuel level",
+    "severity": "low",
+    "timestamp": "2026-06-22T07:53:01.415641",
+    "operating_hours": 9764.4,
+    "zone": "crush",
+    "lat": 40.048718,
+    "lng": -88.333661,
+    "context": {
+      "ambient_temp_c": 20.1,
+      "avg_load_pct": 81.0,
+      "hours_since_service": 14.4,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00083",
+    "machine_id": "EX-07",
+    "code": "SYN-G110",
+    "description": "Air filter restriction",
+    "severity": "low",
+    "timestamp": "2026-06-23T10:44:24.308301",
+    "operating_hours": 3695.4,
+    "zone": "pit",
+    "lat": 40.048342,
+    "lng": -88.345556,
+    "context": {
+      "ambient_temp_c": 25.8,
+      "avg_load_pct": 57.0,
+      "hours_since_service": 195.4,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00175",
+    "machine_id": "HT-11",
+    "code": "SYN-G105",
+    "description": "Idle shutdown timer triggered",
+    "severity": "low",
+    "timestamp": "2026-06-24T15:23:38.724904",
+    "operating_hours": 13385.8,
+    "zone": "pit",
+    "lat": 40.04766,
+    "lng": -88.347605,
+    "context": {
+      "ambient_temp_c": 23.2,
+      "avg_load_pct": 47.0,
+      "hours_since_service": 135.8,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00176",
+    "machine_id": "HT-11",
+    "code": "SYN-G110",
+    "description": "Air filter restriction",
+    "severity": "low",
+    "timestamp": "2026-06-25T15:10:41.776481",
+    "operating_hours": 13393.8,
+    "zone": "pit",
+    "lat": 40.047776,
+    "lng": -88.34771,
+    "context": {
+      "ambient_temp_c": 24.3,
+      "avg_load_pct": 58.0,
+      "hours_since_service": 143.8,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00177",
+    "machine_id": "HT-11",
+    "code": "SYN-G101",
+    "description": "Low fuel level",
+    "severity": "low",
+    "timestamp": "2026-06-27T10:55:35.377216",
+    "operating_hours": 13410.8,
+    "zone": "pit",
+    "lat": 40.048346,
+    "lng": -88.344496,
+    "context": {
+      "ambient_temp_c": 29.9,
+      "avg_load_pct": 68.0,
+      "hours_since_service": 160.8,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00068",
+    "machine_id": "EX-03",
+    "code": "SYN-G110",
+    "description": "Air filter restriction",
+    "severity": "low",
+    "timestamp": "2026-06-28T14:58:17.126178",
+    "operating_hours": 7009.3,
+    "zone": "pit",
+    "lat": 40.048579,
+    "lng": -88.345514,
+    "context": {
+      "ambient_temp_c": 31.3,
+      "avg_load_pct": 53.0,
+      "hours_since_service": 9.3,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00145",
+    "machine_id": "LD-04",
+    "code": "SYN-G110",
+    "description": "Air filter restriction",
+    "severity": "low",
+    "timestamp": "2026-07-01T11:55:52.209836",
+    "operating_hours": 9833.9,
+    "zone": "crush",
+    "lat": 40.048781,
+    "lng": -88.33276,
+    "context": {
+      "ambient_temp_c": 24.4,
+      "avg_load_pct": 68.0,
+      "hours_since_service": 83.9,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00008",
+    "machine_id": "EX-01",
+    "code": "SYN-E214",
+    "description": "Boom position sensor signal erratic",
+    "severity": "medium",
+    "timestamp": "2026-07-01T12:05:00",
+    "operating_hours": 4677.0,
+    "zone": "pit",
+    "lat": 40.047779,
+    "lng": -88.344029,
+    "context": {
+      "ambient_temp_c": 24.4,
+      "avg_load_pct": 63.0,
+      "hours_since_service": 177.0,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00128",
+    "machine_id": "DZ-06",
+    "code": "SYN-G110",
+    "description": "Air filter restriction",
+    "severity": "low",
+    "timestamp": "2026-07-08T10:27:51.409669",
+    "operating_hours": 5245.4,
+    "zone": "pit",
+    "lat": 40.048161,
+    "lng": -88.343649,
+    "context": {
+      "ambient_temp_c": 30.4,
+      "avg_load_pct": 50.0,
+      "hours_since_service": 245.4,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00069",
+    "machine_id": "EX-03",
+    "code": "SYN-G110",
+    "description": "Air filter restriction",
+    "severity": "low",
+    "timestamp": "2026-07-08T13:36:08.220741",
+    "operating_hours": 7072.8,
+    "zone": "pit",
+    "lat": 40.047947,
+    "lng": -88.343918,
+    "context": {
+      "ambient_temp_c": 30.4,
+      "avg_load_pct": 76.0,
+      "hours_since_service": 72.8,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00185",
+    "machine_id": "HT-12",
+    "code": "SYN-G101",
+    "description": "Low fuel level",
+    "severity": "low",
+    "timestamp": "2026-07-09T08:20:48.070119",
+    "operating_hours": 10021.8,
+    "zone": "crush",
+    "lat": 40.048624,
+    "lng": -88.333313,
+    "context": {
+      "ambient_temp_c": 16.9,
+      "avg_load_pct": 50.0,
+      "hours_since_service": 21.8,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00146",
+    "machine_id": "LD-04",
+    "code": "SYN-G110",
+    "description": "Air filter restriction",
+    "severity": "low",
+    "timestamp": "2026-07-10T07:52:50.742385",
+    "operating_hours": 9891.3,
+    "zone": "crush",
+    "lat": 40.048703,
+    "lng": -88.333287,
+    "context": {
+      "ambient_temp_c": 17.4,
+      "avg_load_pct": 60.0,
+      "hours_since_service": 141.3,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00129",
+    "machine_id": "DZ-06",
+    "code": "SYN-G105",
+    "description": "Idle shutdown timer triggered",
+    "severity": "low",
+    "timestamp": "2026-07-10T09:28:23.669530",
+    "operating_hours": 5258.4,
+    "zone": "pit",
+    "lat": 40.048002,
+    "lng": -88.34337,
+    "context": {
+      "ambient_temp_c": 29.4,
+      "avg_load_pct": 83.0,
+      "hours_since_service": 8.4,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00094",
+    "machine_id": "EX-08",
+    "code": "SYN-G110",
+    "description": "Air filter restriction",
+    "severity": "low",
+    "timestamp": "2026-07-13T16:28:42.777146",
+    "operating_hours": 5739.1,
+    "zone": "pit",
+    "lat": 40.048617,
+    "lng": -88.34478,
+    "context": {
+      "ambient_temp_c": 31.4,
+      "avg_load_pct": 63.0,
+      "hours_since_service": 239.1,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00199",
+    "machine_id": "HT-14",
+    "code": "SYN-G101",
+    "description": "Low fuel level",
+    "severity": "low",
+    "timestamp": "2026-07-14T13:53:39.622287",
+    "operating_hours": 8250.6,
+    "zone": "road",
+    "lat": 40.046975,
+    "lng": -88.340029,
+    "context": {
+      "ambient_temp_c": 31.7,
+      "avg_load_pct": 70.0,
+      "hours_since_service": 0.6,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00186",
+    "machine_id": "HT-12",
+    "code": "SYN-G110",
+    "description": "Air filter restriction",
+    "severity": "low",
+    "timestamp": "2026-07-22T07:57:40.011188",
+    "operating_hours": 10112.1,
+    "zone": "pit",
+    "lat": 40.048447,
+    "lng": -88.346215,
+    "context": {
+      "ambient_temp_c": 18.7,
+      "avg_load_pct": 79.0,
+      "hours_since_service": 112.1,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00011",
+    "machine_id": "LD-05",
+    "code": "SYN-E412",
+    "description": "Sensor circuit intermittent, possible moisture",
+    "severity": "medium",
+    "timestamp": "2026-07-22T09:40:00",
+    "operating_hours": 7350.2,
+    "zone": "wash",
+    "lat": 40.045379,
+    "lng": -88.331644,
+    "context": {
+      "ambient_temp_c": 30.7,
+      "avg_load_pct": 63.0,
+      "hours_since_service": 100.2,
+      "washed_today": true
+    }
+  },
+  {
+    "id": "F-00054",
+    "machine_id": "EX-01",
+    "code": "SYN-G110",
+    "description": "Air filter restriction",
+    "severity": "low",
+    "timestamp": "2026-07-24T12:23:49.813753",
+    "operating_hours": 4829.9,
+    "zone": "pit",
+    "lat": 40.048162,
+    "lng": -88.347847,
+    "context": {
+      "ambient_temp_c": 30.5,
+      "avg_load_pct": 48.0,
+      "hours_since_service": 79.9,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00095",
+    "machine_id": "EX-08",
+    "code": "SYN-G105",
+    "description": "Idle shutdown timer triggered",
+    "severity": "low",
+    "timestamp": "2026-07-25T07:35:16.515395",
+    "operating_hours": 5802.5,
+    "zone": "pit",
+    "lat": 40.047636,
+    "lng": -88.345011,
+    "context": {
+      "ambient_temp_c": 19.0,
+      "avg_load_pct": 59.0,
+      "hours_since_service": 52.5,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00104",
+    "machine_id": "EX-10",
+    "code": "SYN-G101",
+    "description": "Low fuel level",
+    "severity": "low",
+    "timestamp": "2026-07-25T08:21:46.279527",
+    "operating_hours": 8483.4,
+    "zone": "crush",
+    "lat": 40.048275,
+    "lng": -88.331575,
+    "context": {
+      "ambient_temp_c": 19.0,
+      "avg_load_pct": 67.0,
+      "hours_since_service": 233.4,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00187",
+    "machine_id": "HT-12",
+    "code": "SYN-G110",
+    "description": "Air filter restriction",
+    "severity": "low",
+    "timestamp": "2026-07-27T07:01:11.700719",
+    "operating_hours": 10141.5,
+    "zone": "road",
+    "lat": 40.046445,
+    "lng": -88.340458,
+    "context": {
+      "ambient_temp_c": 21.6,
+      "avg_load_pct": 72.0,
+      "hours_since_service": 141.5,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00070",
+    "machine_id": "EX-03",
+    "code": "SYN-G105",
+    "description": "Idle shutdown timer triggered",
+    "severity": "low",
+    "timestamp": "2026-07-28T15:32:06.696823",
+    "operating_hours": 7172.5,
+    "zone": "pit",
+    "lat": 40.04762,
+    "lng": -88.345927,
+    "context": {
+      "ambient_temp_c": 33.8,
+      "avg_load_pct": 77.0,
+      "hours_since_service": 172.5,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00130",
+    "machine_id": "DZ-06",
+    "code": "SYN-G110",
+    "description": "Air filter restriction",
+    "severity": "low",
+    "timestamp": "2026-07-29T08:38:10.837437",
+    "operating_hours": 5352.9,
+    "zone": "pit",
+    "lat": 40.047953,
+    "lng": -88.345491,
+    "context": {
+      "ambient_temp_c": 16.5,
+      "avg_load_pct": 59.0,
+      "hours_since_service": 102.9,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00084",
+    "machine_id": "EX-07",
+    "code": "SYN-G110",
+    "description": "Air filter restriction",
+    "severity": "low",
+    "timestamp": "2026-08-02T09:27:39.516789",
+    "operating_hours": 3906.0,
+    "zone": "pit",
+    "lat": 40.048626,
+    "lng": -88.343433,
+    "context": {
+      "ambient_temp_c": 31.7,
+      "avg_load_pct": 53.0,
+      "hours_since_service": 156.0,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00071",
+    "machine_id": "EX-03",
+    "code": "SYN-G110",
+    "description": "Air filter restriction",
+    "severity": "low",
+    "timestamp": "2026-08-10T14:45:44.721242",
+    "operating_hours": 7261.9,
+    "zone": "pit",
+    "lat": 40.048024,
+    "lng": -88.344991,
+    "context": {
+      "ambient_temp_c": 31.2,
+      "avg_load_pct": 84.0,
+      "hours_since_service": 11.9,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00013",
+    "machine_id": "HT-12",
+    "code": "SYN-T610",
+    "description": "Tire pressure low",
+    "severity": "medium",
+    "timestamp": "2026-08-11T15:20:00",
+    "operating_hours": 10270.3,
+    "zone": "road",
+    "lat": 40.04694,
+    "lng": -88.341084,
+    "context": {
+      "ambient_temp_c": 30.8,
+      "avg_load_pct": 46.0,
+      "hours_since_service": 20.3,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00188",
+    "machine_id": "HT-12",
+    "code": "SYN-G110",
+    "description": "Air filter restriction",
+    "severity": "low",
+    "timestamp": "2026-08-13T12:39:01.622448",
+    "operating_hours": 10284.5,
+    "zone": "crush",
+    "lat": 40.048473,
+    "lng": -88.333359,
+    "context": {
+      "ambient_temp_c": 26.0,
+      "avg_load_pct": 79.0,
+      "hours_since_service": 34.5,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00072",
+    "machine_id": "EX-03",
+    "code": "SYN-G101",
+    "description": "Low fuel level",
+    "severity": "low",
+    "timestamp": "2026-08-17T07:24:46.355395",
+    "operating_hours": 7311.7,
+    "zone": "pit",
+    "lat": 40.048524,
+    "lng": -88.348314,
+    "context": {
+      "ambient_temp_c": 22.4,
+      "avg_load_pct": 83.0,
+      "hours_since_service": 61.7,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00073",
+    "machine_id": "EX-03",
+    "code": "SYN-G110",
+    "description": "Air filter restriction",
+    "severity": "low",
+    "timestamp": "2026-08-19T16:08:28.215214",
+    "operating_hours": 7333.7,
+    "zone": "pit",
+    "lat": 40.047857,
+    "lng": -88.346783,
+    "context": {
+      "ambient_temp_c": 31.0,
+      "avg_load_pct": 57.0,
+      "hours_since_service": 83.7,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00114",
+    "machine_id": "DZ-02",
+    "code": "SYN-G101",
+    "description": "Low fuel level",
+    "severity": "low",
+    "timestamp": "2026-08-21T14:01:57.023611",
+    "operating_hours": 9044.2,
+    "zone": "pit",
+    "lat": 40.048158,
+    "lng": -88.343959,
+    "context": {
+      "ambient_temp_c": 33.3,
+      "avg_load_pct": 66.0,
+      "hours_since_service": 44.2,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00189",
+    "machine_id": "HT-12",
+    "code": "SYN-G101",
+    "description": "Low fuel level",
+    "severity": "low",
+    "timestamp": "2026-08-22T09:22:48.099318",
+    "operating_hours": 10344.8,
+    "zone": "pit",
+    "lat": 40.048384,
+    "lng": -88.343906,
+    "context": {
+      "ambient_temp_c": 29.1,
+      "avg_load_pct": 84.0,
+      "hours_since_service": 94.8,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00096",
+    "machine_id": "EX-08",
+    "code": "SYN-G101",
+    "description": "Low fuel level",
+    "severity": "low",
+    "timestamp": "2026-08-27T07:00:36.318984",
+    "operating_hours": 6009.2,
+    "zone": "pit",
+    "lat": 40.04795,
+    "lng": -88.347649,
+    "context": {
+      "ambient_temp_c": 16.5,
+      "avg_load_pct": 46.0,
+      "hours_since_service": 9.2,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00178",
+    "machine_id": "HT-11",
+    "code": "SYN-G105",
+    "description": "Idle shutdown timer triggered",
+    "severity": "low",
+    "timestamp": "2026-08-28T14:01:15.156108",
+    "operating_hours": 13844.5,
+    "zone": "road",
+    "lat": 40.046722,
+    "lng": -88.340316,
+    "context": {
+      "ambient_temp_c": 25.2,
+      "avg_load_pct": 69.0,
+      "hours_since_service": 94.5,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00200",
+    "machine_id": "HT-14",
+    "code": "SYN-G101",
+    "description": "Low fuel level",
+    "severity": "low",
+    "timestamp": "2026-08-28T14:08:17.819896",
+    "operating_hours": 8583.3,
+    "zone": "pit",
+    "lat": 40.047894,
+    "lng": -88.346612,
+    "context": {
+      "ambient_temp_c": 25.2,
+      "avg_load_pct": 76.0,
+      "hours_since_service": 83.3,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00115",
+    "machine_id": "DZ-02",
+    "code": "SYN-G101",
+    "description": "Low fuel level",
+    "severity": "low",
+    "timestamp": "2026-08-30T07:14:35.018081",
+    "operating_hours": 9090.8,
+    "zone": "pit",
+    "lat": 40.048305,
+    "lng": -88.347237,
+    "context": {
+      "ambient_temp_c": 13.7,
+      "avg_load_pct": 54.0,
+      "hours_since_service": 90.8,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00147",
+    "machine_id": "LD-04",
+    "code": "SYN-G110",
+    "description": "Air filter restriction",
+    "severity": "low",
+    "timestamp": "2026-09-04T12:45:36.130342",
+    "operating_hours": 10250.1,
+    "zone": "crush",
+    "lat": 40.048751,
+    "lng": -88.333714,
+    "context": {
+      "ambient_temp_c": 23.7,
+      "avg_load_pct": 58.0,
+      "hours_since_service": 0.1,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00190",
+    "machine_id": "HT-12",
+    "code": "SYN-G110",
+    "description": "Air filter restriction",
+    "severity": "low",
+    "timestamp": "2026-09-08T09:28:27.440186",
+    "operating_hours": 10463.7,
+    "zone": "road",
+    "lat": 40.046351,
+    "lng": -88.341148,
+    "context": {
+      "ambient_temp_c": 27.4,
+      "avg_load_pct": 56.0,
+      "hours_since_service": 213.7,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00201",
+    "machine_id": "HT-14",
+    "code": "SYN-G110",
+    "description": "Air filter restriction",
+    "severity": "low",
+    "timestamp": "2026-09-09T12:11:51.630642",
+    "operating_hours": 8654.0,
+    "zone": "crush",
+    "lat": 40.04823,
+    "lng": -88.332734,
+    "context": {
+      "ambient_temp_c": 25.6,
+      "avg_load_pct": 62.0,
+      "hours_since_service": 154.0,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00012",
+    "machine_id": "DZ-02",
+    "code": "SYN-E412",
+    "description": "Sensor circuit intermittent, possible moisture",
+    "severity": "medium",
+    "timestamp": "2026-09-10T11:55:00",
+    "operating_hours": 9150.2,
+    "zone": "wash",
+    "lat": 40.044928,
+    "lng": -88.335201,
+    "context": {
+      "ambient_temp_c": 22.3,
+      "avg_load_pct": 48.0,
+      "hours_since_service": 150.2,
+      "washed_today": true
+    }
+  },
+  {
+    "id": "F-00131",
+    "machine_id": "DZ-06",
+    "code": "SYN-G110",
+    "description": "Air filter restriction",
+    "severity": "low",
+    "timestamp": "2026-09-11T12:47:22.253177",
+    "operating_hours": 5582.0,
+    "zone": "pit",
+    "lat": 40.048238,
+    "lng": -88.347729,
+    "context": {
+      "ambient_temp_c": 30.2,
+      "avg_load_pct": 80.0,
+      "hours_since_service": 82.0,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00155",
+    "machine_id": "LD-05",
+    "code": "SYN-G110",
+    "description": "Air filter restriction",
+    "severity": "low",
+    "timestamp": "2026-09-13T10:03:26.597132",
+    "operating_hours": 7631.6,
+    "zone": "crush",
+    "lat": 40.048769,
+    "lng": -88.334262,
+    "context": {
+      "ambient_temp_c": 24.0,
+      "avg_load_pct": 57.0,
+      "hours_since_service": 131.6,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00132",
+    "machine_id": "DZ-06",
+    "code": "SYN-G110",
+    "description": "Air filter restriction",
+    "severity": "low",
+    "timestamp": "2026-09-13T10:26:36.647473",
+    "operating_hours": 5589.0,
+    "zone": "pit",
+    "lat": 40.047718,
+    "lng": -88.346841,
+    "context": {
+      "ambient_temp_c": 24.0,
+      "avg_load_pct": 79.0,
+      "hours_since_service": 89.0,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00116",
+    "machine_id": "DZ-02",
+    "code": "SYN-G101",
+    "description": "Low fuel level",
+    "severity": "low",
+    "timestamp": "2026-09-13T11:35:48.611534",
+    "operating_hours": 9173.7,
+    "zone": "pit",
+    "lat": 40.048565,
+    "lng": -88.345092,
+    "context": {
+      "ambient_temp_c": 24.0,
+      "avg_load_pct": 74.0,
+      "hours_since_service": 173.7,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00148",
+    "machine_id": "LD-04",
+    "code": "SYN-G105",
+    "description": "Idle shutdown timer triggered",
+    "severity": "low",
+    "timestamp": "2026-09-14T11:22:30.837146",
+    "operating_hours": 10298.9,
+    "zone": "crush",
+    "lat": 40.047647,
+    "lng": -88.330987,
+    "context": {
+      "ambient_temp_c": 22.4,
+      "avg_load_pct": 62.0,
+      "hours_since_service": 48.9,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00166",
+    "machine_id": "HT-09",
+    "code": "SYN-G110",
+    "description": "Air filter restriction",
+    "severity": "low",
+    "timestamp": "2026-09-14T16:53:53.637651",
+    "operating_hours": 12609.7,
+    "zone": "road",
+    "lat": 40.046488,
+    "lng": -88.338343,
+    "context": {
+      "ambient_temp_c": 22.4,
+      "avg_load_pct": 64.0,
+      "hours_since_service": 109.7,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00085",
+    "machine_id": "EX-07",
+    "code": "SYN-G105",
+    "description": "Idle shutdown timer triggered",
+    "severity": "low",
+    "timestamp": "2026-09-17T13:16:41.485374",
+    "operating_hours": 4174.2,
+    "zone": "pit",
+    "lat": 40.047669,
+    "lng": -88.344372,
+    "context": {
+      "ambient_temp_c": 23.2,
+      "avg_load_pct": 51.0,
+      "hours_since_service": 174.2,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00086",
+    "machine_id": "EX-07",
+    "code": "SYN-G110",
+    "description": "Air filter restriction",
+    "severity": "low",
+    "timestamp": "2026-09-19T12:43:23.007256",
+    "operating_hours": 4182.6,
+    "zone": "pit",
+    "lat": 40.048421,
+    "lng": -88.345631,
+    "context": {
+      "ambient_temp_c": 22.7,
+      "avg_load_pct": 60.0,
+      "hours_since_service": 182.6,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00133",
+    "machine_id": "DZ-06",
+    "code": "SYN-G101",
+    "description": "Low fuel level",
+    "severity": "low",
+    "timestamp": "2026-09-20T16:23:17.914425",
+    "operating_hours": 5640.1,
+    "zone": "pit",
+    "lat": 40.047857,
+    "lng": -88.345018,
+    "context": {
+      "ambient_temp_c": 24.9,
+      "avg_load_pct": 67.0,
+      "hours_since_service": 140.1,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00055",
+    "machine_id": "EX-01",
+    "code": "SYN-G110",
+    "description": "Air filter restriction",
+    "severity": "low",
+    "timestamp": "2026-09-21T09:40:56.349694",
+    "operating_hours": 5174.2,
+    "zone": "pit",
+    "lat": 40.048073,
+    "lng": -88.345342,
+    "context": {
+      "ambient_temp_c": 22.4,
+      "avg_load_pct": 51.0,
+      "hours_since_service": 174.2,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00167",
+    "machine_id": "HT-09",
+    "code": "SYN-G105",
+    "description": "Idle shutdown timer triggered",
+    "severity": "low",
+    "timestamp": "2026-09-22T13:50:43.451980",
+    "operating_hours": 12681.9,
+    "zone": "road",
+    "lat": 40.046406,
+    "lng": -88.339055,
+    "context": {
+      "ambient_temp_c": 24.9,
+      "avg_load_pct": 82.0,
+      "hours_since_service": 181.9,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00074",
+    "machine_id": "EX-03",
+    "code": "SYN-G110",
+    "description": "Air filter restriction",
+    "severity": "low",
+    "timestamp": "2026-09-23T11:13:29.909789",
+    "operating_hours": 7508.7,
+    "zone": "pit",
+    "lat": 40.048413,
+    "lng": -88.344723,
+    "context": {
+      "ambient_temp_c": 21.8,
+      "avg_load_pct": 73.0,
+      "hours_since_service": 8.7,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00097",
+    "machine_id": "EX-08",
+    "code": "SYN-G110",
+    "description": "Air filter restriction",
+    "severity": "low",
+    "timestamp": "2026-09-25T10:14:39.332242",
+    "operating_hours": 6142.8,
+    "zone": "pit",
+    "lat": 40.047822,
+    "lng": -88.348537,
+    "context": {
+      "ambient_temp_c": 23.9,
+      "avg_load_pct": 50.0,
+      "hours_since_service": 142.8,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00134",
+    "machine_id": "DZ-06",
+    "code": "SYN-G105",
+    "description": "Idle shutdown timer triggered",
+    "severity": "low",
+    "timestamp": "2026-09-30T08:51:24.349053",
+    "operating_hours": 5700.5,
+    "zone": "pit",
+    "lat": 40.047748,
+    "lng": -88.344026,
+    "context": {
+      "ambient_temp_c": 5.8,
+      "avg_load_pct": 84.0,
+      "hours_since_service": 200.5,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00168",
+    "machine_id": "HT-09",
+    "code": "SYN-G105",
+    "description": "Idle shutdown timer triggered",
+    "severity": "low",
+    "timestamp": "2026-10-01T13:48:48.837749",
+    "operating_hours": 12773.1,
+    "zone": "pit",
+    "lat": 40.048322,
+    "lng": -88.344498,
+    "context": {
+      "ambient_temp_c": 23.1,
+      "avg_load_pct": 80.0,
+      "hours_since_service": 23.1,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00075",
+    "machine_id": "EX-03",
+    "code": "SYN-G105",
+    "description": "Idle shutdown timer triggered",
+    "severity": "low",
+    "timestamp": "2026-10-01T14:14:52.764139",
+    "operating_hours": 7569.0,
+    "zone": "pit",
+    "lat": 40.047886,
+    "lng": -88.348603,
+    "context": {
+      "ambient_temp_c": 23.1,
+      "avg_load_pct": 84.0,
+      "hours_since_service": 69.0,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00205",
+    "machine_id": "HT-11",
+    "code": "SYN-H520",
+    "description": "Final drive oil level low, leak suspected",
+    "severity": "high",
+    "timestamp": "2026-10-02T08:15:00",
+    "operating_hours": 14135.3,
+    "zone": "road",
+    "lat": 40.046622,
+    "lng": -88.338724,
+    "context": {
+      "ambient_temp_c": 8.1,
+      "avg_load_pct": 58.0,
+      "hours_since_service": 135.3,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00202",
+    "machine_id": "EX-07",
+    "code": "SYN-E214",
+    "description": "Boom position sensor signal erratic",
+    "severity": "medium",
+    "timestamp": "2026-10-02T10:12:00",
+    "operating_hours": 4234.9,
+    "zone": "pit",
+    "lat": 40.047935,
+    "lng": -88.343668,
+    "context": {
+      "ambient_temp_c": 20.1,
+      "avg_load_pct": 49.0,
+      "hours_since_service": 234.9,
+      "washed_today": false
+    }
+  },
+  {
+    "id": "F-00204",
+    "machine_id": "DZ-06",
+    "code": "SYN-E412",
+    "description": "Sensor circuit intermittent, possible moisture",
+    "severity": "medium",
+    "timestamp": "2026-10-02T13:20:00",
+    "operating_hours": 5719.5,
+    "zone": "wash",
+    "lat": 40.045515,
+    "lng": -88.331096,
+    "context": {
+      "ambient_temp_c": 20.1,
+      "avg_load_pct": 57.0,
+      "hours_since_service": 219.5,
+      "washed_today": true
+    }
+  },
+  {
+    "id": "F-00203",
+    "machine_id": "EX-07",
+    "code": "SYN-E214",
+    "description": "Boom position sensor signal erratic",
+    "severity": "medium",
+    "timestamp": "2026-10-02T13:40:00",
+    "operating_hours": 4237.4,
+    "zone": "pit",
+    "lat": 40.048302,
+    "lng": -88.344302,
+    "context": {
+      "ambient_temp_c": 20.1,
+      "avg_load_pct": 49.0,
+      "hours_since_service": 237.4,
+      "washed_today": false
+    }
+  }
+]

@@ -1,0 +1,999 @@
+[
+  {
+    "id": "INT-0001",
+    "work_order_id": "WO-0122",
+    "machine_id": "EX-01",
+    "technician_id": "T-SAM",
+    "timestamp": "2025-10-14T12:50:00",
+    "language": "en",
+    "transcript": [
+      {
+        "speaker": "Strata",
+        "text": "What did you notice when you got to the machine?"
+      },
+      {
+        "speaker": "Sam Patel",
+        "text": "Boom sensor warning was flickering on and off. Operator said it was worse with the boom up."
+      },
+      {
+        "speaker": "Strata",
+        "text": "What did you check that turned out fine?"
+      },
+      {
+        "speaker": "Sam Patel",
+        "text": "Pulled the code history, didn't really check much else."
+      },
+      {
+        "speaker": "Strata",
+        "text": "What actually fixed it?"
+      },
+      {
+        "speaker": "Sam Patel",
+        "text": "Swapped the boom position sensor. Warning cleared."
+      }
+    ],
+    "episode_card": {
+      "symptom": "Warning light comes and goes, worse with the boom raised",
+      "ruled_out": [
+        "Fault history reviewed"
+      ],
+      "fix": "Replaced boom position sensor",
+      "fix_category": "sensor_swap",
+      "parts": [
+        "Boom position sensor"
+      ],
+      "suspected_cause": "Failed sensor (suspected)",
+      "fault_codes": [
+        "SYN-E214"
+      ],
+      "zone": "pit",
+      "labor_minutes": 75,
+      "technician_confirmed": true
+    }
+  },
+  {
+    "id": "INT-0002",
+    "work_order_id": "WO-0123",
+    "machine_id": "EX-01",
+    "technician_id": "T-DALE",
+    "timestamp": "2025-10-31T10:39:00",
+    "language": "en",
+    "transcript": [
+      {
+        "speaker": "Strata",
+        "text": "What did you notice when you got to the machine?"
+      },
+      {
+        "speaker": "Dale Hughes",
+        "text": "Same boom sensor warning. It only shows when the boom is up, so I figured it's movement, not the sensor."
+      },
+      {
+        "speaker": "Strata",
+        "text": "What did you check that turned out fine?"
+      },
+      {
+        "speaker": "Dale Hughes",
+        "text": "Tested the sensor, it was in spec. Connector pins were clean."
+      },
+      {
+        "speaker": "Strata",
+        "text": "What actually fixed it?"
+      },
+      {
+        "speaker": "Dale Hughes",
+        "text": "Harness was rubbing through at the clamp halfway up the boom. Patched it, rerouted it, put a spacer in the clamp. On these 336s, check that clamp first."
+      }
+    ],
+    "episode_card": {
+      "symptom": "Intermittent boom sensor warning, worse with the boom raised",
+      "ruled_out": [
+        "Sensor tested within spec",
+        "Connector pins clean and tight"
+      ],
+      "fix": "Repaired chafed harness at boom clamp; rerouted and re-clamped with spacer",
+      "fix_category": "harness_reroute",
+      "parts": [
+        "Harness clamp spacer",
+        "Heat-shrink sleeve"
+      ],
+      "suspected_cause": "Wire harness rubbing against boom clamp",
+      "fault_codes": [
+        "SYN-E214"
+      ],
+      "zone": "pit",
+      "labor_minutes": 110,
+      "technician_confirmed": true
+    }
+  },
+  {
+    "id": "INT-0016",
+    "work_order_id": "WO-0137",
+    "machine_id": "HT-09",
+    "technician_id": "T-DALE",
+    "timestamp": "2025-11-25T09:14:00",
+    "language": "en",
+    "transcript": [
+      {
+        "speaker": "Strata",
+        "text": "What did you notice when you got to the machine?"
+      },
+      {
+        "speaker": "Dale Hughes",
+        "text": "DEF warning first thing in the morning, it was freezing out."
+      },
+      {
+        "speaker": "Strata",
+        "text": "What did you check that turned out fine?"
+      },
+      {
+        "speaker": "Dale Hughes",
+        "text": "Checked the fluid and the heater relay, both fine."
+      },
+      {
+        "speaker": "Strata",
+        "text": "What actually fixed it?"
+      },
+      {
+        "speaker": "Dale Hughes",
+        "text": "Didn't replace anything. It cleared once the truck warmed up."
+      }
+    ],
+    "episode_card": {
+      "symptom": "DEF warning on cold morning start",
+      "ruled_out": [
+        "DEF fluid quality OK",
+        "DEF heater relay OK"
+      ],
+      "fix": "No fault found; warning cleared after warm-up",
+      "fix_category": "def_check",
+      "parts": [],
+      "suspected_cause": "Cold-start condition (suspected)",
+      "fault_codes": [
+        "SYN-A330"
+      ],
+      "zone": "road",
+      "labor_minutes": 45,
+      "technician_confirmed": true
+    }
+  },
+  {
+    "id": "INT-0017",
+    "work_order_id": "WO-0138",
+    "machine_id": "HT-11",
+    "technician_id": "T-SAM",
+    "timestamp": "2025-12-03T08:57:00",
+    "language": "en",
+    "transcript": [
+      {
+        "speaker": "Strata",
+        "text": "What did you notice when you got to the machine?"
+      },
+      {
+        "speaker": "Sam Patel",
+        "text": "DEF warning first thing in the morning, it was freezing out."
+      },
+      {
+        "speaker": "Strata",
+        "text": "What did you check that turned out fine?"
+      },
+      {
+        "speaker": "Sam Patel",
+        "text": "Checked the fluid and the heater relay, both fine."
+      },
+      {
+        "speaker": "Strata",
+        "text": "What actually fixed it?"
+      },
+      {
+        "speaker": "Sam Patel",
+        "text": "Didn't replace anything. It cleared once the truck warmed up."
+      }
+    ],
+    "episode_card": {
+      "symptom": "DEF warning on cold morning start",
+      "ruled_out": [
+        "DEF fluid quality OK",
+        "DEF heater relay OK"
+      ],
+      "fix": "No fault found; warning cleared after warm-up",
+      "fix_category": "def_check",
+      "parts": [],
+      "suspected_cause": "Cold-start condition (suspected)",
+      "fault_codes": [
+        "SYN-A330"
+      ],
+      "zone": "road",
+      "labor_minutes": 45,
+      "technician_confirmed": true
+    }
+  },
+  {
+    "id": "INT-0003",
+    "work_order_id": "WO-0124",
+    "machine_id": "EX-03",
+    "technician_id": "T-DALE",
+    "timestamp": "2025-12-09T14:42:00",
+    "language": "en",
+    "transcript": [
+      {
+        "speaker": "Strata",
+        "text": "What did you notice when you got to the machine?"
+      },
+      {
+        "speaker": "Dale Hughes",
+        "text": "Same boom sensor warning. It only shows when the boom is up, so I figured it's movement, not the sensor."
+      },
+      {
+        "speaker": "Strata",
+        "text": "What did you check that turned out fine?"
+      },
+      {
+        "speaker": "Dale Hughes",
+        "text": "Tested the sensor, it was in spec. Connector pins were clean."
+      },
+      {
+        "speaker": "Strata",
+        "text": "What actually fixed it?"
+      },
+      {
+        "speaker": "Dale Hughes",
+        "text": "Harness was rubbing through at the clamp halfway up the boom. Patched it, rerouted it, put a spacer in the clamp. On these 336s, check that clamp first."
+      }
+    ],
+    "episode_card": {
+      "symptom": "Intermittent boom sensor warning, worse with the boom raised",
+      "ruled_out": [
+        "Sensor tested within spec",
+        "Connector pins clean and tight"
+      ],
+      "fix": "Repaired chafed harness at boom clamp; rerouted and re-clamped with spacer",
+      "fix_category": "harness_reroute",
+      "parts": [
+        "Harness clamp spacer",
+        "Heat-shrink sleeve"
+      ],
+      "suspected_cause": "Wire harness rubbing against boom clamp",
+      "fault_codes": [
+        "SYN-E214"
+      ],
+      "zone": "pit",
+      "labor_minutes": 110,
+      "technician_confirmed": true
+    }
+  },
+  {
+    "id": "INT-0018",
+    "work_order_id": "WO-0139",
+    "machine_id": "HT-12",
+    "technician_id": "T-DALE",
+    "timestamp": "2026-01-02T08:29:00",
+    "language": "en",
+    "transcript": [
+      {
+        "speaker": "Strata",
+        "text": "What did you notice when you got to the machine?"
+      },
+      {
+        "speaker": "Dale Hughes",
+        "text": "DEF warning first thing in the morning, it was freezing out."
+      },
+      {
+        "speaker": "Strata",
+        "text": "What did you check that turned out fine?"
+      },
+      {
+        "speaker": "Dale Hughes",
+        "text": "Checked the fluid and the heater relay, both fine."
+      },
+      {
+        "speaker": "Strata",
+        "text": "What actually fixed it?"
+      },
+      {
+        "speaker": "Dale Hughes",
+        "text": "Didn't replace anything. It cleared once the truck warmed up."
+      }
+    ],
+    "episode_card": {
+      "symptom": "DEF warning on cold morning start",
+      "ruled_out": [
+        "DEF fluid quality OK",
+        "DEF heater relay OK"
+      ],
+      "fix": "No fault found; warning cleared after warm-up",
+      "fix_category": "def_check",
+      "parts": [],
+      "suspected_cause": "Cold-start condition (suspected)",
+      "fault_codes": [
+        "SYN-A330"
+      ],
+      "zone": "pit",
+      "labor_minutes": 45,
+      "technician_confirmed": true
+    }
+  },
+  {
+    "id": "INT-0004",
+    "work_order_id": "WO-0125",
+    "machine_id": "EX-08",
+    "technician_id": "T-MARIA",
+    "timestamp": "2026-02-03T12:04:00",
+    "language": "es",
+    "transcript": [
+      {
+        "speaker": "Strata",
+        "text": "What did you notice when you got to the machine?"
+      },
+      {
+        "speaker": "Maria Lopez",
+        "text": "La alerta del sensor del brazo se prendía y se apagaba. El operador dijo que era peor con el brazo arriba."
+      },
+      {
+        "speaker": "Strata",
+        "text": "What did you check that turned out fine?"
+      },
+      {
+        "speaker": "Maria Lopez",
+        "text": "Revisé el historial de códigos, nada más."
+      },
+      {
+        "speaker": "Strata",
+        "text": "What actually fixed it?"
+      },
+      {
+        "speaker": "Maria Lopez",
+        "text": "Cambié el sensor de posición del brazo. La alerta se quitó."
+      }
+    ],
+    "episode_card": {
+      "symptom": "Warning light comes and goes, worse with the boom raised",
+      "ruled_out": [
+        "Fault history reviewed"
+      ],
+      "fix": "Replaced boom position sensor",
+      "fix_category": "sensor_swap",
+      "parts": [
+        "Boom position sensor"
+      ],
+      "suspected_cause": "Failed sensor (suspected)",
+      "fault_codes": [
+        "SYN-E214"
+      ],
+      "zone": "pit",
+      "labor_minutes": 75,
+      "technician_confirmed": true
+    }
+  },
+  {
+    "id": "INT-0005",
+    "work_order_id": "WO-0126",
+    "machine_id": "EX-08",
+    "technician_id": "T-MARIA",
+    "timestamp": "2026-02-19T10:39:00",
+    "language": "en",
+    "transcript": [
+      {
+        "speaker": "Strata",
+        "text": "What did you notice when you got to the machine?"
+      },
+      {
+        "speaker": "Maria Lopez",
+        "text": "Boom sensor warning was flickering on and off. Operator said it was worse with the boom up."
+      },
+      {
+        "speaker": "Strata",
+        "text": "What did you check that turned out fine?"
+      },
+      {
+        "speaker": "Maria Lopez",
+        "text": "Pulled the code history, didn't really check much else."
+      },
+      {
+        "speaker": "Strata",
+        "text": "What actually fixed it?"
+      },
+      {
+        "speaker": "Maria Lopez",
+        "text": "Swapped the boom position sensor. Warning cleared."
+      }
+    ],
+    "episode_card": {
+      "symptom": "Warning light comes and goes, worse with the boom raised",
+      "ruled_out": [
+        "Fault history reviewed"
+      ],
+      "fix": "Replaced boom position sensor",
+      "fix_category": "sensor_swap",
+      "parts": [
+        "Boom position sensor"
+      ],
+      "suspected_cause": "Failed sensor (suspected)",
+      "fault_codes": [
+        "SYN-E214"
+      ],
+      "zone": "pit",
+      "labor_minutes": 75,
+      "technician_confirmed": true
+    }
+  },
+  {
+    "id": "INT-0006",
+    "work_order_id": "WO-0127",
+    "machine_id": "EX-08",
+    "technician_id": "T-DALE",
+    "timestamp": "2026-03-02T16:42:00",
+    "language": "en",
+    "transcript": [
+      {
+        "speaker": "Strata",
+        "text": "What did you notice when you got to the machine?"
+      },
+      {
+        "speaker": "Dale Hughes",
+        "text": "Same boom sensor warning. It only shows when the boom is up, so I figured it's movement, not the sensor."
+      },
+      {
+        "speaker": "Strata",
+        "text": "What did you check that turned out fine?"
+      },
+      {
+        "speaker": "Dale Hughes",
+        "text": "Tested the sensor, it was in spec. Connector pins were clean."
+      },
+      {
+        "speaker": "Strata",
+        "text": "What actually fixed it?"
+      },
+      {
+        "speaker": "Dale Hughes",
+        "text": "Harness was rubbing through at the clamp halfway up the boom. Patched it, rerouted it, put a spacer in the clamp. On these 336s, check that clamp first."
+      }
+    ],
+    "episode_card": {
+      "symptom": "Intermittent boom sensor warning, worse with the boom raised",
+      "ruled_out": [
+        "Sensor tested within spec",
+        "Connector pins clean and tight"
+      ],
+      "fix": "Repaired chafed harness at boom clamp; rerouted and re-clamped with spacer",
+      "fix_category": "harness_reroute",
+      "parts": [
+        "Harness clamp spacer",
+        "Heat-shrink sleeve"
+      ],
+      "suspected_cause": "Wire harness rubbing against boom clamp",
+      "fault_codes": [
+        "SYN-E214"
+      ],
+      "zone": "pit",
+      "labor_minutes": 110,
+      "technician_confirmed": true
+    }
+  },
+  {
+    "id": "INT-0009",
+    "work_order_id": "WO-0130",
+    "machine_id": "EX-10",
+    "technician_id": "T-SAM",
+    "timestamp": "2026-04-21T15:43:00",
+    "language": "en",
+    "transcript": [
+      {
+        "speaker": "Strata",
+        "text": "What did you notice when you got to the machine?"
+      },
+      {
+        "speaker": "Sam Patel",
+        "text": "Boom sensor warning was flickering on and off. Operator said it was worse with the boom up."
+      },
+      {
+        "speaker": "Strata",
+        "text": "What did you check that turned out fine?"
+      },
+      {
+        "speaker": "Sam Patel",
+        "text": "Pulled the code history, didn't really check much else."
+      },
+      {
+        "speaker": "Strata",
+        "text": "What actually fixed it?"
+      },
+      {
+        "speaker": "Sam Patel",
+        "text": "Swapped the boom position sensor. Warning cleared."
+      }
+    ],
+    "episode_card": {
+      "symptom": "Warning light comes and goes, worse with the boom raised",
+      "ruled_out": [
+        "Fault history reviewed"
+      ],
+      "fix": "Replaced boom position sensor",
+      "fix_category": "sensor_swap",
+      "parts": [
+        "Boom position sensor"
+      ],
+      "suspected_cause": "Failed sensor (suspected)",
+      "fault_codes": [
+        "SYN-E214"
+      ],
+      "zone": "crush",
+      "labor_minutes": 75,
+      "technician_confirmed": true
+    }
+  },
+  {
+    "id": "INT-0010",
+    "work_order_id": "WO-0131",
+    "machine_id": "DZ-06",
+    "technician_id": "T-MARIA",
+    "timestamp": "2026-05-19T12:29:00",
+    "language": "en",
+    "transcript": [
+      {
+        "speaker": "Strata",
+        "text": "What did you notice when you got to the machine?"
+      },
+      {
+        "speaker": "Maria Lopez",
+        "text": "Warning popped up right after it came out of the wash bay."
+      },
+      {
+        "speaker": "Strata",
+        "text": "What did you check that turned out fine?"
+      },
+      {
+        "speaker": "Maria Lopez",
+        "text": "Sensor was fine, wiring looked fine."
+      },
+      {
+        "speaker": "Strata",
+        "text": "What actually fixed it?"
+      },
+      {
+        "speaker": "Maria Lopez",
+        "text": "Water in the connector. Blew it dry, greased it, reseated it. Tell the wash crew to go easy on that harness."
+      }
+    ],
+    "episode_card": {
+      "symptom": "Sensor circuit warning shortly after pressure washing",
+      "ruled_out": [
+        "Sensor tested within spec",
+        "No damaged wiring found"
+      ],
+      "fix": "Dried and cleaned connector, applied dielectric grease, reseated",
+      "fix_category": "connector_dry",
+      "parts": [
+        "Dielectric grease"
+      ],
+      "suspected_cause": "Water in connector from pressure washing",
+      "fault_codes": [
+        "SYN-E412"
+      ],
+      "zone": "wash",
+      "labor_minutes": 50,
+      "technician_confirmed": true
+    }
+  },
+  {
+    "id": "INT-0019",
+    "work_order_id": "WO-0140",
+    "machine_id": "HT-11",
+    "technician_id": "T-MARIA",
+    "timestamp": "2026-06-05T18:24:00",
+    "language": "en",
+    "transcript": [
+      {
+        "speaker": "Strata",
+        "text": "What did you notice when you got to the machine?"
+      },
+      {
+        "speaker": "Maria Lopez",
+        "text": "Oil low warning on the final drive, oil all over the inside of the rim."
+      },
+      {
+        "speaker": "Strata",
+        "text": "What did you check that turned out fine?"
+      },
+      {
+        "speaker": "Maria Lopez",
+        "text": "Drain plug was tight, housing had no cracks."
+      },
+      {
+        "speaker": "Strata",
+        "text": "What actually fixed it?"
+      },
+      {
+        "speaker": "Maria Lopez",
+        "text": "Seal was worn. Replaced the seal kit and refilled."
+      }
+    ],
+    "episode_card": {
+      "symptom": "Final drive oil low warning, oil residue on rim",
+      "ruled_out": [
+        "Drain plug tight",
+        "No cracks in housing"
+      ],
+      "fix": "Replaced final drive seal and refilled oil",
+      "fix_category": "final_drive_seal",
+      "parts": [
+        "Final drive seal kit",
+        "Final drive oil"
+      ],
+      "suspected_cause": "Worn final drive seal",
+      "fault_codes": [
+        "SYN-H520"
+      ],
+      "zone": "road",
+      "labor_minutes": 300,
+      "technician_confirmed": true
+    }
+  },
+  {
+    "id": "INT-0007",
+    "work_order_id": "WO-0128",
+    "machine_id": "EX-01",
+    "technician_id": "T-JORDAN",
+    "timestamp": "2026-06-10T14:48:00",
+    "language": "en",
+    "transcript": [
+      {
+        "speaker": "Strata",
+        "text": "What did you notice when you got to the machine?"
+      },
+      {
+        "speaker": "Jordan Reed",
+        "text": "Boom sensor warning was flickering on and off. Operator said it was worse with the boom up."
+      },
+      {
+        "speaker": "Strata",
+        "text": "What did you check that turned out fine?"
+      },
+      {
+        "speaker": "Jordan Reed",
+        "text": "Pulled the code history, didn't really check much else."
+      },
+      {
+        "speaker": "Strata",
+        "text": "What actually fixed it?"
+      },
+      {
+        "speaker": "Jordan Reed",
+        "text": "Swapped the boom position sensor. Warning cleared."
+      }
+    ],
+    "episode_card": {
+      "symptom": "Warning light comes and goes, worse with the boom raised",
+      "ruled_out": [
+        "Fault history reviewed"
+      ],
+      "fix": "Replaced boom position sensor",
+      "fix_category": "sensor_swap",
+      "parts": [
+        "Boom position sensor"
+      ],
+      "suspected_cause": "Failed sensor (suspected)",
+      "fault_codes": [
+        "SYN-E214"
+      ],
+      "zone": "pit",
+      "labor_minutes": 75,
+      "technician_confirmed": true
+    }
+  },
+  {
+    "id": "INT-0008",
+    "work_order_id": "WO-0129",
+    "machine_id": "EX-01",
+    "technician_id": "T-DALE",
+    "timestamp": "2026-07-01T16:21:00",
+    "language": "en",
+    "transcript": [
+      {
+        "speaker": "Strata",
+        "text": "What did you notice when you got to the machine?"
+      },
+      {
+        "speaker": "Dale Hughes",
+        "text": "Same boom sensor warning. It only shows when the boom is up, so I figured it's movement, not the sensor."
+      },
+      {
+        "speaker": "Strata",
+        "text": "What did you check that turned out fine?"
+      },
+      {
+        "speaker": "Dale Hughes",
+        "text": "Tested the sensor, it was in spec. Connector pins were clean."
+      },
+      {
+        "speaker": "Strata",
+        "text": "What actually fixed it?"
+      },
+      {
+        "speaker": "Dale Hughes",
+        "text": "Harness was rubbing through at the clamp halfway up the boom. Patched it, rerouted it, put a spacer in the clamp. On these 336s, check that clamp first."
+      }
+    ],
+    "episode_card": {
+      "symptom": "Intermittent boom sensor warning, worse with the boom raised",
+      "ruled_out": [
+        "Sensor tested within spec",
+        "Connector pins clean and tight"
+      ],
+      "fix": "Repaired chafed harness at boom clamp; rerouted and re-clamped with spacer",
+      "fix_category": "harness_reroute",
+      "parts": [
+        "Harness clamp spacer",
+        "Heat-shrink sleeve"
+      ],
+      "suspected_cause": "Wire harness rubbing against boom clamp",
+      "fault_codes": [
+        "SYN-E214"
+      ],
+      "zone": "pit",
+      "labor_minutes": 110,
+      "technician_confirmed": true
+    }
+  },
+  {
+    "id": "INT-0013",
+    "work_order_id": "WO-0134",
+    "machine_id": "HT-09",
+    "technician_id": "T-SAM",
+    "timestamp": "2026-07-08T10:48:00",
+    "language": "en",
+    "transcript": [
+      {
+        "speaker": "Strata",
+        "text": "What did you notice when you got to the machine?"
+      },
+      {
+        "speaker": "Sam Patel",
+        "text": "Cut in the sidewall on the inside tire. Operator says they ran the haul road bend last shift."
+      },
+      {
+        "speaker": "Strata",
+        "text": "What did you check that turned out fine?"
+      },
+      {
+        "speaker": "Sam Patel",
+        "text": "Rim's fine, other tires are fine."
+      },
+      {
+        "speaker": "Strata",
+        "text": "What actually fixed it?"
+      },
+      {
+        "speaker": "Sam Patel",
+        "text": "Swapped the tire. That's not the first one from that bend, there's rock spilling off loaded trucks on the inside of the curve."
+      }
+    ],
+    "episode_card": {
+      "symptom": "Sidewall cut found on pre-shift inspection",
+      "ruled_out": [
+        "Rim undamaged",
+        "Other tires fine"
+      ],
+      "fix": "Replaced damaged tire",
+      "fix_category": "tire_replace",
+      "parts": [
+        "Tire (775 spec)"
+      ],
+      "suspected_cause": "Rock spill on inside of haul road bend",
+      "fault_codes": [],
+      "zone": "road",
+      "labor_minutes": 150,
+      "technician_confirmed": true
+    }
+  },
+  {
+    "id": "INT-0011",
+    "work_order_id": "WO-0132",
+    "machine_id": "LD-05",
+    "technician_id": "T-SAM",
+    "timestamp": "2026-07-22T11:59:00",
+    "language": "en",
+    "transcript": [
+      {
+        "speaker": "Strata",
+        "text": "What did you notice when you got to the machine?"
+      },
+      {
+        "speaker": "Sam Patel",
+        "text": "Warning popped up right after it came out of the wash bay."
+      },
+      {
+        "speaker": "Strata",
+        "text": "What did you check that turned out fine?"
+      },
+      {
+        "speaker": "Sam Patel",
+        "text": "Sensor was fine, wiring looked fine."
+      },
+      {
+        "speaker": "Strata",
+        "text": "What actually fixed it?"
+      },
+      {
+        "speaker": "Sam Patel",
+        "text": "Water in the connector. Blew it dry, greased it, reseated it. Tell the wash crew to go easy on that harness."
+      }
+    ],
+    "episode_card": {
+      "symptom": "Sensor circuit warning shortly after pressure washing",
+      "ruled_out": [
+        "Sensor tested within spec",
+        "No damaged wiring found"
+      ],
+      "fix": "Dried and cleaned connector, applied dielectric grease, reseated",
+      "fix_category": "connector_dry",
+      "parts": [
+        "Dielectric grease"
+      ],
+      "suspected_cause": "Water in connector from pressure washing",
+      "fault_codes": [
+        "SYN-E412"
+      ],
+      "zone": "wash",
+      "labor_minutes": 50,
+      "technician_confirmed": true
+    }
+  },
+  {
+    "id": "INT-0014",
+    "work_order_id": "WO-0135",
+    "machine_id": "HT-12",
+    "technician_id": "T-MARIA",
+    "timestamp": "2026-08-12T10:36:00",
+    "language": "en",
+    "transcript": [
+      {
+        "speaker": "Strata",
+        "text": "What did you notice when you got to the machine?"
+      },
+      {
+        "speaker": "Maria Lopez",
+        "text": "Cut in the sidewall on the inside tire. Operator says they ran the haul road bend last shift."
+      },
+      {
+        "speaker": "Strata",
+        "text": "What did you check that turned out fine?"
+      },
+      {
+        "speaker": "Maria Lopez",
+        "text": "Rim's fine, other tires are fine."
+      },
+      {
+        "speaker": "Strata",
+        "text": "What actually fixed it?"
+      },
+      {
+        "speaker": "Maria Lopez",
+        "text": "Swapped the tire. That's not the first one from that bend, there's rock spilling off loaded trucks on the inside of the curve."
+      }
+    ],
+    "episode_card": {
+      "symptom": "Sidewall cut found on pre-shift inspection",
+      "ruled_out": [
+        "Rim undamaged",
+        "Other tires fine"
+      ],
+      "fix": "Replaced damaged tire",
+      "fix_category": "tire_replace",
+      "parts": [
+        "Tire (775 spec)"
+      ],
+      "suspected_cause": "Rock spill on inside of haul road bend",
+      "fault_codes": [
+        "SYN-T610"
+      ],
+      "zone": "road",
+      "labor_minutes": 150,
+      "technician_confirmed": true
+    }
+  },
+  {
+    "id": "INT-0012",
+    "work_order_id": "WO-0133",
+    "machine_id": "DZ-02",
+    "technician_id": "T-JORDAN",
+    "timestamp": "2026-09-10T14:15:00",
+    "language": "en",
+    "transcript": [
+      {
+        "speaker": "Strata",
+        "text": "What did you notice when you got to the machine?"
+      },
+      {
+        "speaker": "Jordan Reed",
+        "text": "Warning popped up right after it came out of the wash bay."
+      },
+      {
+        "speaker": "Strata",
+        "text": "What did you check that turned out fine?"
+      },
+      {
+        "speaker": "Jordan Reed",
+        "text": "Sensor was fine, wiring looked fine."
+      },
+      {
+        "speaker": "Strata",
+        "text": "What actually fixed it?"
+      },
+      {
+        "speaker": "Jordan Reed",
+        "text": "Water in the connector. Blew it dry, greased it, reseated it. Tell the wash crew to go easy on that harness."
+      }
+    ],
+    "episode_card": {
+      "symptom": "Sensor circuit warning shortly after pressure washing",
+      "ruled_out": [
+        "Sensor tested within spec",
+        "No damaged wiring found"
+      ],
+      "fix": "Dried and cleaned connector, applied dielectric grease, reseated",
+      "fix_category": "connector_dry",
+      "parts": [
+        "Dielectric grease"
+      ],
+      "suspected_cause": "Water in connector from pressure washing",
+      "fault_codes": [
+        "SYN-E412"
+      ],
+      "zone": "wash",
+      "labor_minutes": 50,
+      "technician_confirmed": true
+    }
+  },
+  {
+    "id": "INT-0015",
+    "work_order_id": "WO-0136",
+    "machine_id": "HT-14",
+    "technician_id": "T-JORDAN",
+    "timestamp": "2026-09-16T10:55:00",
+    "language": "en",
+    "transcript": [
+      {
+        "speaker": "Strata",
+        "text": "What did you notice when you got to the machine?"
+      },
+      {
+        "speaker": "Jordan Reed",
+        "text": "Cut in the sidewall on the inside tire. Operator says they ran the haul road bend last shift."
+      },
+      {
+        "speaker": "Strata",
+        "text": "What did you check that turned out fine?"
+      },
+      {
+        "speaker": "Jordan Reed",
+        "text": "Rim's fine, other tires are fine."
+      },
+      {
+        "speaker": "Strata",
+        "text": "What actually fixed it?"
+      },
+      {
+        "speaker": "Jordan Reed",
+        "text": "Swapped the tire. That's not the first one from that bend, there's rock spilling off loaded trucks on the inside of the curve."
+      }
+    ],
+    "episode_card": {
+      "symptom": "Sidewall cut found on pre-shift inspection",
+      "ruled_out": [
+        "Rim undamaged",
+        "Other tires fine"
+      ],
+      "fix": "Replaced damaged tire",
+      "fix_category": "tire_replace",
+      "parts": [
+        "Tire (775 spec)"
+      ],
+      "suspected_cause": "Rock spill on inside of haul road bend",
+      "fault_codes": [],
+      "zone": "road",
+      "labor_minutes": 150,
+      "technician_confirmed": true
+    }
+  }
+]
